@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table {
+    border: 1px solid black;
+    width: 80vw;
+    border-collapse: collapse;
+}
+
+td,
+th {
+    border: 1px solid gray;
+    text-align: center;
+}
+
+.empty_tr {
+    height: 10px;
+    background-color: bisque;
+    /* color: aqua; */
+}

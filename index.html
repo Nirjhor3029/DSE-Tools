@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="root"></div>
+</body>
+
+<script>
+    var jsonData;
+
+    function readTextFile(file) {
+        var rawFile = new XMLHttpRequest();
+        rawFile.open("GET", file, false);
+        rawFile.onreadystatechange = function () {
+            if (rawFile.readyState === 4) {
+                if (rawFile.status === 200 || rawFile.status == 0) {
+                    var allText = rawFile.responseText;
+                    jsonData = JSON.parse(allText);
+                    console.log(jsonData);
+                    // document.querySelector("#root").innerHTML = jsonData;
+                    // return jsonData;
+                }
+            }
+        }
+        rawFile.send(null);
+    }
+    readTextFile("./companyDividends.txt");
+    // console.log(jsonData);
+    // document.write(jsonData.company);
+
+    function generateTable(jsonData) {
+        const company = jsonData.company;
+        // const jsonData = jsonData;
+        const root = document.getElementById("root");
+
+        const table = document.createElement("table");
+        const thead = document.createElement("thead");
+        const tbody = document.createElement("tbody");
+        const tr = document.createElement("tr");
+        const th = document.createElement("th");
+        const td = document.createElement("td");
+
+
+        customTable = root.appendChild(table.cloneNode(true));
+
+        customThead = customTable.appendChild(thead.cloneNode(true));
+        customHead_tr = customThead.appendChild(tr.cloneNode(true));
+
+        customHead_tr.appendChild(th.cloneNode(false)).textContent = "No.";
+        customHead_tr.appendChild(th.cloneNode(false)).textContent = "Company";
+        customHead_tr.appendChild(th.cloneNode(false)).textContent = "Year";
+        customHead_tr.appendChild(th.cloneNode(false)).textContent = "Dividend in %";
+        customHead_tr.appendChild(th.cloneNode(false)).textContent = "Dividend Yield in %";
+
+        customTbody = customTable.appendChild(tbody.cloneNode(true));
+
+
+        jsonData.forEach((data, number) => {
+            let company = data.company;
+            let dividends = data.dividends;
+            dividends.forEach((dividendInfo, index) => {
+                custombody_tr = customTbody.appendChild(tr.cloneNode(true));
+                if (!index) {
+                    let numberColumn = custombody_tr.appendChild(td.cloneNode(true));
+                    numberColumn.rowSpan = dividends.length;
+                    numberColumn.textContent = number + 1;
+
+                    let companyColumn = custombody_tr.appendChild(td.cloneNode(true));
+                    companyColumn.rowSpan = dividends.length;
+                    companyColumn.textContent = company;
+
+                }
+
+                custombody_tr.appendChild(td.cloneNode(true)).textContent = dividendInfo.year;
+                custombody_tr.appendChild(td.cloneNode(true)).textContent = dividendInfo
+                    .dividend_in_percent;
+                custombody_tr.appendChild(td.cloneNode(true)).textContent = dividendInfo
+                    .dividend_yield_in_percent;
+            });
+
+            null_tr = customTbody.appendChild(tr.cloneNode(true)).appendChild(td.cloneNode(true));
+            // null_tr.textContent = ".";
+            null_tr.colSpan = dividends.length;
+            null_tr.classList.add('empty_tr');
+        });
+
+
+    }
+
+    generateTable(jsonData);
+
+</script>
+
+</html>

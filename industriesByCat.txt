@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Bank",
+    "link": "companylistbyindustry.php?industryno=11"
+  },
+  {
+    "title": "Cement",
+    "link": "companylistbyindustry.php?industryno=21"
+  },
+  {
+    "title": "Ceramics Sector",
+    "link": "companylistbyindustry.php?industryno=24"
+  },
+  {
+    "title": "Corporate Bond",
+    "link": "companylistbyindustry.php?industryno=26"
+  },
+  {
+    "title": "Debenture",
+    "link": "companylistbyindustry.php?industryno=91"
+  },
+  {
+    "title": "Engineering",
+    "link": "companylistbyindustry.php?industryno=13"
+  },
+  {
+    "title": "Financial Institutions",
+    "link": "companylistbyindustry.php?industryno=28"
+  },
+  {
+    "title": "Food & Allied",
+    "link": "companylistbyindustry.php?industryno=14"
+  },
+  {
+    "title": "Fuel & Power",
+    "link": "companylistbyindustry.php?industryno=15"
+  },
+  {
+    "title": "Insurance",
+    "link": "companylistbyindustry.php?industryno=25"
+  },
+  {
+    "title": "IT Sector",
+    "link": "companylistbyindustry.php?industryno=22"
+  },
+  {
+    "title": "Jute",
+    "link": "companylistbyindustry.php?industryno=16"
+  },
+  {
+    "title": "Miscellaneous",
+    "link": "companylistbyindustry.php?industryno=99"
+  },
+  {
+    "title": "Mutual Funds",
+    "link": "companylistbyindustry.php?industryno=12"
+  },
+  {
+    "title": "Paper & Printing",
+    "link": "companylistbyindustry.php?industryno=19"
+  },
+  {
+    "title": "Pharmaceuticals & Chemicals",
+    "link": "companylistbyindustry.php?industryno=18"
+  },
+  {
+    "title": "Services & Real Estate",
+    "link": "companylistbyindustry.php?industryno=20"
+  },
+  {
+    "title": "Tannery Industries",
+    "link": "companylistbyindustry.php?industryno=23"
+  },
+  {
+    "title": "Telecommunication",
+    "link": "companylistbyindustry.php?industryno=27"
+  },
+  {
+    "title": "Textile",
+    "link": "companylistbyindustry.php?industryno=17"
+  },
+  {
+    "title": "Travel & Leisure",
+    "link": "companylistbyindustry.php?industryno=29"
+  },
+  {
+    "title": "Treasury Bond",
+    "link": "companylistbyindustry.php?industryno=88"
+  }
+]

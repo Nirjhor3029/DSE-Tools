@@ -1,0 +1,2622 @@
+[
+  {
+    "sector": {
+      "title": "Bank",
+      "link": "companylistbyindustry.php?industryno=11"
+    },
+    "companies": [
+      {
+        "company_name": "ABBANK",
+        "link": "displayCompany.php?name=ABBANK"
+      },
+      {
+        "company_name": "ALARABANK",
+        "link": "displayCompany.php?name=ALARABANK"
+      },
+      {
+        "company_name": "BANKASIA",
+        "link": "displayCompany.php?name=BANKASIA"
+      },
+      {
+        "company_name": "BRACBANK",
+        "link": "displayCompany.php?name=BRACBANK"
+      },
+      {
+        "company_name": "CITYBANK",
+        "link": "displayCompany.php?name=CITYBANK"
+      },
+      {
+        "company_name": "DHAKABANK",
+        "link": "displayCompany.php?name=DHAKABANK"
+      },
+      {
+        "company_name": "DUTCHBANGL",
+        "link": "displayCompany.php?name=DUTCHBANGL"
+      },
+      {
+        "company_name": "EBL",
+        "link": "displayCompany.php?name=EBL"
+      },
+      {
+        "company_name": "EXIMBANK",
+        "link": "displayCompany.php?name=EXIMBANK"
+      },
+      {
+        "company_name": "FIRSTSBANK",
+        "link": "displayCompany.php?name=FIRSTSBANK"
+      },
+      {
+        "company_name": "ICBIBANK",
+        "link": "displayCompany.php?name=ICBIBANK"
+      },
+      {
+        "company_name": "IFIC",
+        "link": "displayCompany.php?name=IFIC"
+      },
+      {
+        "company_name": "ISLAMIBANK",
+        "link": "displayCompany.php?name=ISLAMIBANK"
+      },
+      {
+        "company_name": "JAMUNABANK",
+        "link": "displayCompany.php?name=JAMUNABANK"
+      },
+      {
+        "company_name": "MERCANBANK",
+        "link": "displayCompany.php?name=MERCANBANK"
+      },
+      {
+        "company_name": "MTB",
+        "link": "displayCompany.php?name=MTB"
+      },
+      {
+        "company_name": "NBL",
+        "link": "displayCompany.php?name=NBL"
+      },
+      {
+        "company_name": "NCCBANK",
+        "link": "displayCompany.php?name=NCCBANK"
+      },
+      {
+        "company_name": "NRBCBANK",
+        "link": "displayCompany.php?name=NRBCBANK"
+      },
+      {
+        "company_name": "ONEBANKLTD",
+        "link": "displayCompany.php?name=ONEBANKLTD"
+      },
+      {
+        "company_name": "PREMIERBAN",
+        "link": "displayCompany.php?name=PREMIERBAN"
+      },
+      {
+        "company_name": "PRIMEBANK",
+        "link": "displayCompany.php?name=PRIMEBANK"
+      },
+      {
+        "company_name": "PUBALIBANK",
+        "link": "displayCompany.php?name=PUBALIBANK"
+      },
+      {
+        "company_name": "RUPALIBANK",
+        "link": "displayCompany.php?name=RUPALIBANK"
+      },
+      {
+        "company_name": "SBACBANK",
+        "link": "displayCompany.php?name=SBACBANK"
+      },
+      {
+        "company_name": "SHAHJABANK",
+        "link": "displayCompany.php?name=SHAHJABANK"
+      },
+      {
+        "company_name": "SIBL",
+        "link": "displayCompany.php?name=SIBL"
+      },
+      {
+        "company_name": "SOUTHEASTB",
+        "link": "displayCompany.php?name=SOUTHEASTB"
+      },
+      {
+        "company_name": "STANDBANKL",
+        "link": "displayCompany.php?name=STANDBANKL"
+      },
+      {
+        "company_name": "TRUSTBANK",
+        "link": "displayCompany.php?name=TRUSTBANK"
+      },
+      {
+        "company_name": "UCB",
+        "link": "displayCompany.php?name=UCB"
+      },
+      {
+        "company_name": "UTTARABANK",
+        "link": "displayCompany.php?name=UTTARABANK"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Cement",
+      "link": "companylistbyindustry.php?industryno=21"
+    },
+    "companies": [
+      {
+        "company_name": "ARAMITCEM",
+        "link": "displayCompany.php?name=ARAMITCEM"
+      },
+      {
+        "company_name": "CONFIDCEM",
+        "link": "displayCompany.php?name=CONFIDCEM"
+      },
+      {
+        "company_name": "HEIDELBCEM",
+        "link": "displayCompany.php?name=HEIDELBCEM"
+      },
+      {
+        "company_name": "LHBL",
+        "link": "displayCompany.php?name=LHBL"
+      },
+      {
+        "company_name": "MEGHNACEM",
+        "link": "displayCompany.php?name=MEGHNACEM"
+      },
+      {
+        "company_name": "MICEMENT",
+        "link": "displayCompany.php?name=MICEMENT"
+      },
+      {
+        "company_name": "PREMIERCEM",
+        "link": "displayCompany.php?name=PREMIERCEM"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Ceramics Sector",
+      "link": "companylistbyindustry.php?industryno=24"
+    },
+    "companies": [
+      {
+        "company_name": "FUWANGCER",
+        "link": "displayCompany.php?name=FUWANGCER"
+      },
+      {
+        "company_name": "MONNOCERA",
+        "link": "displayCompany.php?name=MONNOCERA"
+      },
+      {
+        "company_name": "RAKCERAMIC",
+        "link": "displayCompany.php?name=RAKCERAMIC"
+      },
+      {
+        "company_name": "SPCERAMICS",
+        "link": "displayCompany.php?name=SPCERAMICS"
+      },
+      {
+        "company_name": "STANCERAM",
+        "link": "displayCompany.php?name=STANCERAM"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Corporate Bond",
+      "link": "companylistbyindustry.php?industryno=26"
+    },
+    "companies": [
+      {
+        "company_name": "APSCLBOND",
+        "link": "displayCompany.php?name=APSCLBOND"
+      },
+      {
+        "company_name": "IBBLPBOND",
+        "link": "displayCompany.php?name=IBBLPBOND"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Debenture",
+      "link": "companylistbyindustry.php?industryno=91"
+    },
+    "companies": [
+      {
+        "company_name": "DEBARACEM",
+        "link": "displayCompany.php?name=DEBARACEM"
+      },
+      {
+        "company_name": "DEBBDLUGG",
+        "link": "displayCompany.php?name=DEBBDLUGG"
+      },
+      {
+        "company_name": "DEBBDWELD",
+        "link": "displayCompany.php?name=DEBBDWELD"
+      },
+      {
+        "company_name": "DEBBDZIPP",
+        "link": "displayCompany.php?name=DEBBDZIPP"
+      },
+      {
+        "company_name": "DEBBXDENIM",
+        "link": "displayCompany.php?name=DEBBXDENIM"
+      },
+      {
+        "company_name": "DEBBXFISH",
+        "link": "displayCompany.php?name=DEBBXFISH"
+      },
+      {
+        "company_name": "DEBBXKNI",
+        "link": "displayCompany.php?name=DEBBXKNI"
+      },
+      {
+        "company_name": "DEBBXTEX",
+        "link": "displayCompany.php?name=DEBBXTEX"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Engineering",
+      "link": "companylistbyindustry.php?industryno=13"
+    },
+    "companies": [
+      {
+        "company_name": "AFTABAUTO",
+        "link": "displayCompany.php?name=AFTABAUTO"
+      },
+      {
+        "company_name": "ANWARGALV",
+        "link": "displayCompany.php?name=ANWARGALV"
+      },
+      {
+        "company_name": "APOLOISPAT",
+        "link": "displayCompany.php?name=APOLOISPAT"
+      },
+      {
+        "company_name": "ATLASBANG",
+        "link": "displayCompany.php?name=ATLASBANG"
+      },
+      {
+        "company_name": "AZIZPIPES",
+        "link": "displayCompany.php?name=AZIZPIPES"
+      },
+      {
+        "company_name": "BBS",
+        "link": "displayCompany.php?name=BBS"
+      },
+      {
+        "company_name": "BBSCABLES",
+        "link": "displayCompany.php?name=BBSCABLES"
+      },
+      {
+        "company_name": "BDAUTOCA",
+        "link": "displayCompany.php?name=BDAUTOCA"
+      },
+      {
+        "company_name": "BDLAMPS",
+        "link": "displayCompany.php?name=BDLAMPS"
+      },
+      {
+        "company_name": "BDTHAI",
+        "link": "displayCompany.php?name=BDTHAI"
+      },
+      {
+        "company_name": "BENGALWTL",
+        "link": "displayCompany.php?name=BENGALWTL"
+      },
+      {
+        "company_name": "BSRMLTD",
+        "link": "displayCompany.php?name=BSRMLTD"
+      },
+      {
+        "company_name": "BSRMSTEEL",
+        "link": "displayCompany.php?name=BSRMSTEEL"
+      },
+      {
+        "company_name": "COPPERTECH",
+        "link": "displayCompany.php?name=COPPERTECH"
+      },
+      {
+        "company_name": "DESHBANDHU",
+        "link": "displayCompany.php?name=DESHBANDHU"
+      },
+      {
+        "company_name": "DOMINAGE",
+        "link": "displayCompany.php?name=DOMINAGE"
+      },
+      {
+        "company_name": "ECABLES",
+        "link": "displayCompany.php?name=ECABLES"
+      },
+      {
+        "company_name": "GOLDENSON",
+        "link": "displayCompany.php?name=GOLDENSON"
+      },
+      {
+        "company_name": "GPHISPAT",
+        "link": "displayCompany.php?name=GPHISPAT"
+      },
+      {
+        "company_name": "IFADAUTOS",
+        "link": "displayCompany.php?name=IFADAUTOS"
+      },
+      {
+        "company_name": "KAY&QUE",
+        "link": "displayCompany.php?name=KAY&QUE"
+      },
+      {
+        "company_name": "KDSALTD",
+        "link": "displayCompany.php?name=KDSALTD"
+      },
+      {
+        "company_name": "MIRAKHTER",
+        "link": "displayCompany.php?name=MIRAKHTER"
+      },
+      {
+        "company_name": "MONNOAGML",
+        "link": "displayCompany.php?name=MONNOAGML"
+      },
+      {
+        "company_name": "NAHEEACP",
+        "link": "displayCompany.php?name=NAHEEACP"
+      },
+      {
+        "company_name": "NAVANACNG",
+        "link": "displayCompany.php?name=NAVANACNG"
+      },
+      {
+        "company_name": "NPOLYMAR",
+        "link": "displayCompany.php?name=NPOLYMAR"
+      },
+      {
+        "company_name": "NTLTUBES",
+        "link": "displayCompany.php?name=NTLTUBES"
+      },
+      {
+        "company_name": "OAL",
+        "link": "displayCompany.php?name=OAL"
+      },
+      {
+        "company_name": "OIMEX",
+        "link": "displayCompany.php?name=OIMEX"
+      },
+      {
+        "company_name": "QUASEMIND",
+        "link": "displayCompany.php?name=QUASEMIND"
+      },
+      {
+        "company_name": "RANFOUNDRY",
+        "link": "displayCompany.php?name=RANFOUNDRY"
+      },
+      {
+        "company_name": "RENWICKJA",
+        "link": "displayCompany.php?name=RENWICKJA"
+      },
+      {
+        "company_name": "RSRMSTEEL",
+        "link": "displayCompany.php?name=RSRMSTEEL"
+      },
+      {
+        "company_name": "RUNNERAUTO",
+        "link": "displayCompany.php?name=RUNNERAUTO"
+      },
+      {
+        "company_name": "SALAMCRST",
+        "link": "displayCompany.php?name=SALAMCRST"
+      },
+      {
+        "company_name": "SHURWID",
+        "link": "displayCompany.php?name=SHURWID"
+      },
+      {
+        "company_name": "SINGERBD",
+        "link": "displayCompany.php?name=SINGERBD"
+      },
+      {
+        "company_name": "SSSTEEL",
+        "link": "displayCompany.php?name=SSSTEEL"
+      },
+      {
+        "company_name": "WALTONHIL",
+        "link": "displayCompany.php?name=WALTONHIL"
+      },
+      {
+        "company_name": "WMSHIPYARD",
+        "link": "displayCompany.php?name=WMSHIPYARD"
+      },
+      {
+        "company_name": "YPL",
+        "link": "displayCompany.php?name=YPL"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Financial Institutions",
+      "link": "companylistbyindustry.php?industryno=28"
+    },
+    "companies": [
+      {
+        "company_name": "BAYLEASING",
+        "link": "displayCompany.php?name=BAYLEASING"
+      },
+      {
+        "company_name": "BDFINANCE",
+        "link": "displayCompany.php?name=BDFINANCE"
+      },
+      {
+        "company_name": "BIFC",
+        "link": "displayCompany.php?name=BIFC"
+      },
+      {
+        "company_name": "DBH",
+        "link": "displayCompany.php?name=DBH"
+      },
+      {
+        "company_name": "FAREASTFIN",
+        "link": "displayCompany.php?name=FAREASTFIN"
+      },
+      {
+        "company_name": "FASFIN",
+        "link": "displayCompany.php?name=FASFIN"
+      },
+      {
+        "company_name": "FIRSTFIN",
+        "link": "displayCompany.php?name=FIRSTFIN"
+      },
+      {
+        "company_name": "GSPFINANCE",
+        "link": "displayCompany.php?name=GSPFINANCE"
+      },
+      {
+        "company_name": "ICB",
+        "link": "displayCompany.php?name=ICB"
+      },
+      {
+        "company_name": "IDLC",
+        "link": "displayCompany.php?name=IDLC"
+      },
+      {
+        "company_name": "ILFSL",
+        "link": "displayCompany.php?name=ILFSL"
+      },
+      {
+        "company_name": "IPDC",
+        "link": "displayCompany.php?name=IPDC"
+      },
+      {
+        "company_name": "ISLAMICFIN",
+        "link": "displayCompany.php?name=ISLAMICFIN"
+      },
+      {
+        "company_name": "LANKABAFIN",
+        "link": "displayCompany.php?name=LANKABAFIN"
+      },
+      {
+        "company_name": "MIDASFIN",
+        "link": "displayCompany.php?name=MIDASFIN"
+      },
+      {
+        "company_name": "NHFIL",
+        "link": "displayCompany.php?name=NHFIL"
+      },
+      {
+        "company_name": "PHOENIXFIN",
+        "link": "displayCompany.php?name=PHOENIXFIN"
+      },
+      {
+        "company_name": "PLFSL",
+        "link": "displayCompany.php?name=PLFSL"
+      },
+      {
+        "company_name": "PREMIERLEA",
+        "link": "displayCompany.php?name=PREMIERLEA"
+      },
+      {
+        "company_name": "PRIMEFIN",
+        "link": "displayCompany.php?name=PRIMEFIN"
+      },
+      {
+        "company_name": "UNIONCAP",
+        "link": "displayCompany.php?name=UNIONCAP"
+      },
+      {
+        "company_name": "UNITEDFIN",
+        "link": "displayCompany.php?name=UNITEDFIN"
+      },
+      {
+        "company_name": "UTTARAFIN",
+        "link": "displayCompany.php?name=UTTARAFIN"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Food & Allied",
+      "link": "companylistbyindustry.php?industryno=14"
+    },
+    "companies": [
+      {
+        "company_name": "AMCL(PRAN)",
+        "link": "displayCompany.php?name=AMCL(PRAN)"
+      },
+      {
+        "company_name": "APEXFOODS",
+        "link": "displayCompany.php?name=APEXFOODS"
+      },
+      {
+        "company_name": "BANGAS",
+        "link": "displayCompany.php?name=BANGAS"
+      },
+      {
+        "company_name": "BATBC",
+        "link": "displayCompany.php?name=BATBC"
+      },
+      {
+        "company_name": "BEACHHATCH",
+        "link": "displayCompany.php?name=BEACHHATCH"
+      },
+      {
+        "company_name": "EMERALDOIL",
+        "link": "displayCompany.php?name=EMERALDOIL"
+      },
+      {
+        "company_name": "FINEFOODS",
+        "link": "displayCompany.php?name=FINEFOODS"
+      },
+      {
+        "company_name": "FUWANGFOOD",
+        "link": "displayCompany.php?name=FUWANGFOOD"
+      },
+      {
+        "company_name": "GEMINISEA",
+        "link": "displayCompany.php?name=GEMINISEA"
+      },
+      {
+        "company_name": "GHAIL",
+        "link": "displayCompany.php?name=GHAIL"
+      },
+      {
+        "company_name": "MEGCONMILK",
+        "link": "displayCompany.php?name=MEGCONMILK"
+      },
+      {
+        "company_name": "MEGHNAPET",
+        "link": "displayCompany.php?name=MEGHNAPET"
+      },
+      {
+        "company_name": "NTC",
+        "link": "displayCompany.php?name=NTC"
+      },
+      {
+        "company_name": "OLYMPIC",
+        "link": "displayCompany.php?name=OLYMPIC"
+      },
+      {
+        "company_name": "RAHIMAFOOD",
+        "link": "displayCompany.php?name=RAHIMAFOOD"
+      },
+      {
+        "company_name": "RDFOOD",
+        "link": "displayCompany.php?name=RDFOOD"
+      },
+      {
+        "company_name": "SHYAMPSUG",
+        "link": "displayCompany.php?name=SHYAMPSUG"
+      },
+      {
+        "company_name": "TAUFIKA",
+        "link": "displayCompany.php?name=TAUFIKA"
+      },
+      {
+        "company_name": "UNILEVERCL",
+        "link": "displayCompany.php?name=UNILEVERCL"
+      },
+      {
+        "company_name": "ZEALBANGLA",
+        "link": "displayCompany.php?name=ZEALBANGLA"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Fuel & Power",
+      "link": "companylistbyindustry.php?industryno=15"
+    },
+    "companies": [
+      {
+        "company_name": "AOL",
+        "link": "displayCompany.php?name=AOL"
+      },
+      {
+        "company_name": "BARKAPOWER",
+        "link": "displayCompany.php?name=BARKAPOWER"
+      },
+      {
+        "company_name": "BDWELDING",
+        "link": "displayCompany.php?name=BDWELDING"
+      },
+      {
+        "company_name": "BPPL",
+        "link": "displayCompany.php?name=BPPL"
+      },
+      {
+        "company_name": "CVOPRL",
+        "link": "displayCompany.php?name=CVOPRL"
+      },
+      {
+        "company_name": "DESCO",
+        "link": "displayCompany.php?name=DESCO"
+      },
+      {
+        "company_name": "DOREENPWR",
+        "link": "displayCompany.php?name=DOREENPWR"
+      },
+      {
+        "company_name": "EASTRNLUB",
+        "link": "displayCompany.php?name=EASTRNLUB"
+      },
+      {
+        "company_name": "EPGL",
+        "link": "displayCompany.php?name=EPGL"
+      },
+      {
+        "company_name": "GBBPOWER",
+        "link": "displayCompany.php?name=GBBPOWER"
+      },
+      {
+        "company_name": "INTRACO",
+        "link": "displayCompany.php?name=INTRACO"
+      },
+      {
+        "company_name": "JAMUNAOIL",
+        "link": "displayCompany.php?name=JAMUNAOIL"
+      },
+      {
+        "company_name": "KPCL",
+        "link": "displayCompany.php?name=KPCL"
+      },
+      {
+        "company_name": "LINDEBD",
+        "link": "displayCompany.php?name=LINDEBD"
+      },
+      {
+        "company_name": "LRBDL",
+        "link": "displayCompany.php?name=LRBDL"
+      },
+      {
+        "company_name": "MJLBD",
+        "link": "displayCompany.php?name=MJLBD"
+      },
+      {
+        "company_name": "MPETROLEUM",
+        "link": "displayCompany.php?name=MPETROLEUM"
+      },
+      {
+        "company_name": "PADMAOIL",
+        "link": "displayCompany.php?name=PADMAOIL"
+      },
+      {
+        "company_name": "POWERGRID",
+        "link": "displayCompany.php?name=POWERGRID"
+      },
+      {
+        "company_name": "SPCL",
+        "link": "displayCompany.php?name=SPCL"
+      },
+      {
+        "company_name": "SUMITPOWER",
+        "link": "displayCompany.php?name=SUMITPOWER"
+      },
+      {
+        "company_name": "TITASGAS",
+        "link": "displayCompany.php?name=TITASGAS"
+      },
+      {
+        "company_name": "UPGDCL",
+        "link": "displayCompany.php?name=UPGDCL"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Insurance",
+      "link": "companylistbyindustry.php?industryno=25"
+    },
+    "companies": [
+      {
+        "company_name": "AGRANINS",
+        "link": "displayCompany.php?name=AGRANINS"
+      },
+      {
+        "company_name": "ASIAINS",
+        "link": "displayCompany.php?name=ASIAINS"
+      },
+      {
+        "company_name": "ASIAPACINS",
+        "link": "displayCompany.php?name=ASIAPACINS"
+      },
+      {
+        "company_name": "BGIC",
+        "link": "displayCompany.php?name=BGIC"
+      },
+      {
+        "company_name": "BNICL",
+        "link": "displayCompany.php?name=BNICL"
+      },
+      {
+        "company_name": "CENTRALINS",
+        "link": "displayCompany.php?name=CENTRALINS"
+      },
+      {
+        "company_name": "CITYGENINS",
+        "link": "displayCompany.php?name=CITYGENINS"
+      },
+      {
+        "company_name": "CONTININS",
+        "link": "displayCompany.php?name=CONTININS"
+      },
+      {
+        "company_name": "CRYSTALINS",
+        "link": "displayCompany.php?name=CRYSTALINS"
+      },
+      {
+        "company_name": "DELTALIFE",
+        "link": "displayCompany.php?name=DELTALIFE"
+      },
+      {
+        "company_name": "DGIC",
+        "link": "displayCompany.php?name=DGIC"
+      },
+      {
+        "company_name": "DHAKAINS",
+        "link": "displayCompany.php?name=DHAKAINS"
+      },
+      {
+        "company_name": "EASTERNINS",
+        "link": "displayCompany.php?name=EASTERNINS"
+      },
+      {
+        "company_name": "EASTLAND",
+        "link": "displayCompany.php?name=EASTLAND"
+      },
+      {
+        "company_name": "EIL",
+        "link": "displayCompany.php?name=EIL"
+      },
+      {
+        "company_name": "FAREASTLIF",
+        "link": "displayCompany.php?name=FAREASTLIF"
+      },
+      {
+        "company_name": "FEDERALINS",
+        "link": "displayCompany.php?name=FEDERALINS"
+      },
+      {
+        "company_name": "GLOBALINS",
+        "link": "displayCompany.php?name=GLOBALINS"
+      },
+      {
+        "company_name": "GREENDELT",
+        "link": "displayCompany.php?name=GREENDELT"
+      },
+      {
+        "company_name": "ISLAMIINS",
+        "link": "displayCompany.php?name=ISLAMIINS"
+      },
+      {
+        "company_name": "JANATAINS",
+        "link": "displayCompany.php?name=JANATAINS"
+      },
+      {
+        "company_name": "KARNAPHULI",
+        "link": "displayCompany.php?name=KARNAPHULI"
+      },
+      {
+        "company_name": "MEGHNALIFE",
+        "link": "displayCompany.php?name=MEGHNALIFE"
+      },
+      {
+        "company_name": "MERCINS",
+        "link": "displayCompany.php?name=MERCINS"
+      },
+      {
+        "company_name": "NATLIFEINS",
+        "link": "displayCompany.php?name=NATLIFEINS"
+      },
+      {
+        "company_name": "NITOLINS",
+        "link": "displayCompany.php?name=NITOLINS"
+      },
+      {
+        "company_name": "NORTHRNINS",
+        "link": "displayCompany.php?name=NORTHRNINS"
+      },
+      {
+        "company_name": "PADMALIFE",
+        "link": "displayCompany.php?name=PADMALIFE"
+      },
+      {
+        "company_name": "PARAMOUNT",
+        "link": "displayCompany.php?name=PARAMOUNT"
+      },
+      {
+        "company_name": "PEOPLESINS",
+        "link": "displayCompany.php?name=PEOPLESINS"
+      },
+      {
+        "company_name": "PHENIXINS",
+        "link": "displayCompany.php?name=PHENIXINS"
+      },
+      {
+        "company_name": "PIONEERINS",
+        "link": "displayCompany.php?name=PIONEERINS"
+      },
+      {
+        "company_name": "POPULARLIF",
+        "link": "displayCompany.php?name=POPULARLIF"
+      },
+      {
+        "company_name": "PRAGATIINS",
+        "link": "displayCompany.php?name=PRAGATIINS"
+      },
+      {
+        "company_name": "PRAGATILIF",
+        "link": "displayCompany.php?name=PRAGATILIF"
+      },
+      {
+        "company_name": "PRIMEINSUR",
+        "link": "displayCompany.php?name=PRIMEINSUR"
+      },
+      {
+        "company_name": "PRIMELIFE",
+        "link": "displayCompany.php?name=PRIMELIFE"
+      },
+      {
+        "company_name": "PROGRESLIF",
+        "link": "displayCompany.php?name=PROGRESLIF"
+      },
+      {
+        "company_name": "PROVATIINS",
+        "link": "displayCompany.php?name=PROVATIINS"
+      },
+      {
+        "company_name": "PURABIGEN",
+        "link": "displayCompany.php?name=PURABIGEN"
+      },
+      {
+        "company_name": "RELIANCINS",
+        "link": "displayCompany.php?name=RELIANCINS"
+      },
+      {
+        "company_name": "REPUBLIC",
+        "link": "displayCompany.php?name=REPUBLIC"
+      },
+      {
+        "company_name": "RUPALIINS",
+        "link": "displayCompany.php?name=RUPALIINS"
+      },
+      {
+        "company_name": "RUPALILIFE",
+        "link": "displayCompany.php?name=RUPALILIFE"
+      },
+      {
+        "company_name": "SANDHANINS",
+        "link": "displayCompany.php?name=SANDHANINS"
+      },
+      {
+        "company_name": "SONALILIFE",
+        "link": "displayCompany.php?name=SONALILIFE"
+      },
+      {
+        "company_name": "SONARBAINS",
+        "link": "displayCompany.php?name=SONARBAINS"
+      },
+      {
+        "company_name": "STANDARINS",
+        "link": "displayCompany.php?name=STANDARINS"
+      },
+      {
+        "company_name": "SUNLIFEINS",
+        "link": "displayCompany.php?name=SUNLIFEINS"
+      },
+      {
+        "company_name": "TAKAFULINS",
+        "link": "displayCompany.php?name=TAKAFULINS"
+      },
+      {
+        "company_name": "UNITEDINS",
+        "link": "displayCompany.php?name=UNITEDINS"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "IT Sector",
+      "link": "companylistbyindustry.php?industryno=22"
+    },
+    "companies": [
+      {
+        "company_name": "AAMRANET",
+        "link": "displayCompany.php?name=AAMRANET"
+      },
+      {
+        "company_name": "AAMRATECH",
+        "link": "displayCompany.php?name=AAMRATECH"
+      },
+      {
+        "company_name": "ADNTEL",
+        "link": "displayCompany.php?name=ADNTEL"
+      },
+      {
+        "company_name": "AGNISYSL",
+        "link": "displayCompany.php?name=AGNISYSL"
+      },
+      {
+        "company_name": "BDCOM",
+        "link": "displayCompany.php?name=BDCOM"
+      },
+      {
+        "company_name": "DAFODILCOM",
+        "link": "displayCompany.php?name=DAFODILCOM"
+      },
+      {
+        "company_name": "EGEN",
+        "link": "displayCompany.php?name=EGEN"
+      },
+      {
+        "company_name": "GENEXIL",
+        "link": "displayCompany.php?name=GENEXIL"
+      },
+      {
+        "company_name": "INTECH",
+        "link": "displayCompany.php?name=INTECH"
+      },
+      {
+        "company_name": "ISNLTD",
+        "link": "displayCompany.php?name=ISNLTD"
+      },
+      {
+        "company_name": "ITC",
+        "link": "displayCompany.php?name=ITC"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Jute",
+      "link": "companylistbyindustry.php?industryno=16"
+    },
+    "companies": [
+      {
+        "company_name": "JUTESPINN",
+        "link": "displayCompany.php?name=JUTESPINN"
+      },
+      {
+        "company_name": "NORTHERN",
+        "link": "displayCompany.php?name=NORTHERN"
+      },
+      {
+        "company_name": "SONALIANSH",
+        "link": "displayCompany.php?name=SONALIANSH"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Miscellaneous",
+      "link": "companylistbyindustry.php?industryno=99"
+    },
+    "companies": [
+      {
+        "company_name": "AMANFEED",
+        "link": "displayCompany.php?name=AMANFEED"
+      },
+      {
+        "company_name": "ARAMIT",
+        "link": "displayCompany.php?name=ARAMIT"
+      },
+      {
+        "company_name": "BERGERPBL",
+        "link": "displayCompany.php?name=BERGERPBL"
+      },
+      {
+        "company_name": "BEXIMCO",
+        "link": "displayCompany.php?name=BEXIMCO"
+      },
+      {
+        "company_name": "BSC",
+        "link": "displayCompany.php?name=BSC"
+      },
+      {
+        "company_name": "GQBALLPEN",
+        "link": "displayCompany.php?name=GQBALLPEN"
+      },
+      {
+        "company_name": "INDEXAGRO",
+        "link": "displayCompany.php?name=INDEXAGRO"
+      },
+      {
+        "company_name": "KBPPWBIL",
+        "link": "displayCompany.php?name=KBPPWBIL"
+      },
+      {
+        "company_name": "MIRACLEIND",
+        "link": "displayCompany.php?name=MIRACLEIND"
+      },
+      {
+        "company_name": "NFML",
+        "link": "displayCompany.php?name=NFML"
+      },
+      {
+        "company_name": "SAVAREFR",
+        "link": "displayCompany.php?name=SAVAREFR"
+      },
+      {
+        "company_name": "SINOBANGLA",
+        "link": "displayCompany.php?name=SINOBANGLA"
+      },
+      {
+        "company_name": "SKTRIMS",
+        "link": "displayCompany.php?name=SKTRIMS"
+      },
+      {
+        "company_name": "USMANIAGL",
+        "link": "displayCompany.php?name=USMANIAGL"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Mutual Funds",
+      "link": "companylistbyindustry.php?industryno=12"
+    },
+    "companies": [
+      {
+        "company_name": "1JANATAMF",
+        "link": "displayCompany.php?name=1JANATAMF"
+      },
+      {
+        "company_name": "1STPRIMFMF",
+        "link": "displayCompany.php?name=1STPRIMFMF"
+      },
+      {
+        "company_name": "ABB1STMF",
+        "link": "displayCompany.php?name=ABB1STMF"
+      },
+      {
+        "company_name": "AIBL1STIMF",
+        "link": "displayCompany.php?name=AIBL1STIMF"
+      },
+      {
+        "company_name": "ATCSLGF",
+        "link": "displayCompany.php?name=ATCSLGF"
+      },
+      {
+        "company_name": "CAPMBDBLMF",
+        "link": "displayCompany.php?name=CAPMBDBLMF"
+      },
+      {
+        "company_name": "CAPMIBBLMF",
+        "link": "displayCompany.php?name=CAPMIBBLMF"
+      },
+      {
+        "company_name": "DBH1STMF",
+        "link": "displayCompany.php?name=DBH1STMF"
+      },
+      {
+        "company_name": "EBL1STMF",
+        "link": "displayCompany.php?name=EBL1STMF"
+      },
+      {
+        "company_name": "EBLNRBMF",
+        "link": "displayCompany.php?name=EBLNRBMF"
+      },
+      {
+        "company_name": "EXIM1STMF",
+        "link": "displayCompany.php?name=EXIM1STMF"
+      },
+      {
+        "company_name": "FBFIF",
+        "link": "displayCompany.php?name=FBFIF"
+      },
+      {
+        "company_name": "GRAMEENS2",
+        "link": "displayCompany.php?name=GRAMEENS2"
+      },
+      {
+        "company_name": "GREENDELMF",
+        "link": "displayCompany.php?name=GREENDELMF"
+      },
+      {
+        "company_name": "ICB3RDNRB",
+        "link": "displayCompany.php?name=ICB3RDNRB"
+      },
+      {
+        "company_name": "ICBAGRANI1",
+        "link": "displayCompany.php?name=ICBAGRANI1"
+      },
+      {
+        "company_name": "ICBAMCL2ND",
+        "link": "displayCompany.php?name=ICBAMCL2ND"
+      },
+      {
+        "company_name": "ICBEPMF1S1",
+        "link": "displayCompany.php?name=ICBEPMF1S1"
+      },
+      {
+        "company_name": "ICBSONALI1",
+        "link": "displayCompany.php?name=ICBSONALI1"
+      },
+      {
+        "company_name": "IFIC1STMF",
+        "link": "displayCompany.php?name=IFIC1STMF"
+      },
+      {
+        "company_name": "IFILISLMF1",
+        "link": "displayCompany.php?name=IFILISLMF1"
+      },
+      {
+        "company_name": "LRGLOBMF1",
+        "link": "displayCompany.php?name=LRGLOBMF1"
+      },
+      {
+        "company_name": "MBL1STMF",
+        "link": "displayCompany.php?name=MBL1STMF"
+      },
+      {
+        "company_name": "NCCBLMF1",
+        "link": "displayCompany.php?name=NCCBLMF1"
+      },
+      {
+        "company_name": "NLI1STMF",
+        "link": "displayCompany.php?name=NLI1STMF"
+      },
+      {
+        "company_name": "PF1STMF",
+        "link": "displayCompany.php?name=PF1STMF"
+      },
+      {
+        "company_name": "PHPMF1",
+        "link": "displayCompany.php?name=PHPMF1"
+      },
+      {
+        "company_name": "POPULAR1MF",
+        "link": "displayCompany.php?name=POPULAR1MF"
+      },
+      {
+        "company_name": "PRIME1ICBA",
+        "link": "displayCompany.php?name=PRIME1ICBA"
+      },
+      {
+        "company_name": "RELIANCE1",
+        "link": "displayCompany.php?name=RELIANCE1"
+      },
+      {
+        "company_name": "SEBL1STMF",
+        "link": "displayCompany.php?name=SEBL1STMF"
+      },
+      {
+        "company_name": "SEMLFBSLGF",
+        "link": "displayCompany.php?name=SEMLFBSLGF"
+      },
+      {
+        "company_name": "SEMLIBBLSF",
+        "link": "displayCompany.php?name=SEMLIBBLSF"
+      },
+      {
+        "company_name": "SEMLLECMF",
+        "link": "displayCompany.php?name=SEMLLECMF"
+      },
+      {
+        "company_name": "TRUSTB1MF",
+        "link": "displayCompany.php?name=TRUSTB1MF"
+      },
+      {
+        "company_name": "VAMLBDMF1",
+        "link": "displayCompany.php?name=VAMLBDMF1"
+      },
+      {
+        "company_name": "VAMLRBBF",
+        "link": "displayCompany.php?name=VAMLRBBF"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Paper & Printing",
+      "link": "companylistbyindustry.php?industryno=19"
+    },
+    "companies": [
+      {
+        "company_name": "BPML",
+        "link": "displayCompany.php?name=BPML"
+      },
+      {
+        "company_name": "HAKKANIPUL",
+        "link": "displayCompany.php?name=HAKKANIPUL"
+      },
+      {
+        "company_name": "KPPL",
+        "link": "displayCompany.php?name=KPPL"
+      },
+      {
+        "company_name": "MONOSPOOL",
+        "link": "displayCompany.php?name=MONOSPOOL"
+      },
+      {
+        "company_name": "PAPERPROC",
+        "link": "displayCompany.php?name=PAPERPROC"
+      },
+      {
+        "company_name": "SONALIPAPR",
+        "link": "displayCompany.php?name=SONALIPAPR"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Pharmaceuticals & Chemicals",
+      "link": "companylistbyindustry.php?industryno=18"
+    },
+    "companies": [
+      {
+        "company_name": "ACI",
+        "link": "displayCompany.php?name=ACI"
+      },
+      {
+        "company_name": "ACIFORMULA",
+        "link": "displayCompany.php?name=ACIFORMULA"
+      },
+      {
+        "company_name": "ACMELAB",
+        "link": "displayCompany.php?name=ACMELAB"
+      },
+      {
+        "company_name": "ACTIVEFINE",
+        "link": "displayCompany.php?name=ACTIVEFINE"
+      },
+      {
+        "company_name": "ADVENT",
+        "link": "displayCompany.php?name=ADVENT"
+      },
+      {
+        "company_name": "AFCAGRO",
+        "link": "displayCompany.php?name=AFCAGRO"
+      },
+      {
+        "company_name": "AMBEEPHA",
+        "link": "displayCompany.php?name=AMBEEPHA"
+      },
+      {
+        "company_name": "BEACONPHAR",
+        "link": "displayCompany.php?name=BEACONPHAR"
+      },
+      {
+        "company_name": "BXPHARMA",
+        "link": "displayCompany.php?name=BXPHARMA"
+      },
+      {
+        "company_name": "BXSYNTH",
+        "link": "displayCompany.php?name=BXSYNTH"
+      },
+      {
+        "company_name": "CENTRALPHL",
+        "link": "displayCompany.php?name=CENTRALPHL"
+      },
+      {
+        "company_name": "FARCHEM",
+        "link": "displayCompany.php?name=FARCHEM"
+      },
+      {
+        "company_name": "GHCL",
+        "link": "displayCompany.php?name=GHCL"
+      },
+      {
+        "company_name": "IBNSINA",
+        "link": "displayCompany.php?name=IBNSINA"
+      },
+      {
+        "company_name": "IBP",
+        "link": "displayCompany.php?name=IBP"
+      },
+      {
+        "company_name": "IMAMBUTTON",
+        "link": "displayCompany.php?name=IMAMBUTTON"
+      },
+      {
+        "company_name": "JMISMDL",
+        "link": "displayCompany.php?name=JMISMDL"
+      },
+      {
+        "company_name": "KEYACOSMET",
+        "link": "displayCompany.php?name=KEYACOSMET"
+      },
+      {
+        "company_name": "KOHINOOR",
+        "link": "displayCompany.php?name=KOHINOOR"
+      },
+      {
+        "company_name": "LIBRAINFU",
+        "link": "displayCompany.php?name=LIBRAINFU"
+      },
+      {
+        "company_name": "MARICO",
+        "link": "displayCompany.php?name=MARICO"
+      },
+      {
+        "company_name": "ORIONINFU",
+        "link": "displayCompany.php?name=ORIONINFU"
+      },
+      {
+        "company_name": "ORIONPHARM",
+        "link": "displayCompany.php?name=ORIONPHARM"
+      },
+      {
+        "company_name": "PHARMAID",
+        "link": "displayCompany.php?name=PHARMAID"
+      },
+      {
+        "company_name": "RECKITTBEN",
+        "link": "displayCompany.php?name=RECKITTBEN"
+      },
+      {
+        "company_name": "RENATA",
+        "link": "displayCompany.php?name=RENATA"
+      },
+      {
+        "company_name": "SALVOCHEM",
+        "link": "displayCompany.php?name=SALVOCHEM"
+      },
+      {
+        "company_name": "SILCOPHL",
+        "link": "displayCompany.php?name=SILCOPHL"
+      },
+      {
+        "company_name": "SILVAPHL",
+        "link": "displayCompany.php?name=SILVAPHL"
+      },
+      {
+        "company_name": "SQURPHARMA",
+        "link": "displayCompany.php?name=SQURPHARMA"
+      },
+      {
+        "company_name": "WATACHEM",
+        "link": "displayCompany.php?name=WATACHEM"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Services & Real Estate",
+      "link": "companylistbyindustry.php?industryno=20"
+    },
+    "companies": [
+      {
+        "company_name": "EHL",
+        "link": "displayCompany.php?name=EHL"
+      },
+      {
+        "company_name": "SAIFPOWER",
+        "link": "displayCompany.php?name=SAIFPOWER"
+      },
+      {
+        "company_name": "SAMORITA",
+        "link": "displayCompany.php?name=SAMORITA"
+      },
+      {
+        "company_name": "SAPORTL",
+        "link": "displayCompany.php?name=SAPORTL"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Tannery Industries",
+      "link": "companylistbyindustry.php?industryno=23"
+    },
+    "companies": [
+      {
+        "company_name": "APEXFOOT",
+        "link": "displayCompany.php?name=APEXFOOT"
+      },
+      {
+        "company_name": "APEXTANRY",
+        "link": "displayCompany.php?name=APEXTANRY"
+      },
+      {
+        "company_name": "BATASHOE",
+        "link": "displayCompany.php?name=BATASHOE"
+      },
+      {
+        "company_name": "FORTUNE",
+        "link": "displayCompany.php?name=FORTUNE"
+      },
+      {
+        "company_name": "LEGACYFOOT",
+        "link": "displayCompany.php?name=LEGACYFOOT"
+      },
+      {
+        "company_name": "SAMATALETH",
+        "link": "displayCompany.php?name=SAMATALETH"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Telecommunication",
+      "link": "companylistbyindustry.php?industryno=27"
+    },
+    "companies": [
+      {
+        "company_name": "BSCCL",
+        "link": "displayCompany.php?name=BSCCL"
+      },
+      {
+        "company_name": "GP",
+        "link": "displayCompany.php?name=GP"
+      },
+      {
+        "company_name": "ROBI",
+        "link": "displayCompany.php?name=ROBI"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Textile",
+      "link": "companylistbyindustry.php?industryno=17"
+    },
+    "companies": [
+      {
+        "company_name": "ACFL",
+        "link": "displayCompany.php?name=ACFL"
+      },
+      {
+        "company_name": "AIL",
+        "link": "displayCompany.php?name=AIL"
+      },
+      {
+        "company_name": "AL-HAJTEX",
+        "link": "displayCompany.php?name=AL-HAJTEX"
+      },
+      {
+        "company_name": "ALIF",
+        "link": "displayCompany.php?name=ALIF"
+      },
+      {
+        "company_name": "ALLTEX",
+        "link": "displayCompany.php?name=ALLTEX"
+      },
+      {
+        "company_name": "ANLIMAYARN",
+        "link": "displayCompany.php?name=ANLIMAYARN"
+      },
+      {
+        "company_name": "APEXSPINN",
+        "link": "displayCompany.php?name=APEXSPINN"
+      },
+      {
+        "company_name": "ARGONDENIM",
+        "link": "displayCompany.php?name=ARGONDENIM"
+      },
+      {
+        "company_name": "CNATEX",
+        "link": "displayCompany.php?name=CNATEX"
+      },
+      {
+        "company_name": "DACCADYE",
+        "link": "displayCompany.php?name=DACCADYE"
+      },
+      {
+        "company_name": "DELTASPINN",
+        "link": "displayCompany.php?name=DELTASPINN"
+      },
+      {
+        "company_name": "DSHGARME",
+        "link": "displayCompany.php?name=DSHGARME"
+      },
+      {
+        "company_name": "DSSL",
+        "link": "displayCompany.php?name=DSSL"
+      },
+      {
+        "company_name": "DULAMIACOT",
+        "link": "displayCompany.php?name=DULAMIACOT"
+      },
+      {
+        "company_name": "ENVOYTEX",
+        "link": "displayCompany.php?name=ENVOYTEX"
+      },
+      {
+        "company_name": "ESQUIRENIT",
+        "link": "displayCompany.php?name=ESQUIRENIT"
+      },
+      {
+        "company_name": "ETL",
+        "link": "displayCompany.php?name=ETL"
+      },
+      {
+        "company_name": "FAMILYTEX",
+        "link": "displayCompany.php?name=FAMILYTEX"
+      },
+      {
+        "company_name": "FEKDIL",
+        "link": "displayCompany.php?name=FEKDIL"
+      },
+      {
+        "company_name": "GENNEXT",
+        "link": "displayCompany.php?name=GENNEXT"
+      },
+      {
+        "company_name": "HFL",
+        "link": "displayCompany.php?name=HFL"
+      },
+      {
+        "company_name": "HRTEX",
+        "link": "displayCompany.php?name=HRTEX"
+      },
+      {
+        "company_name": "HWAWELLTEX",
+        "link": "displayCompany.php?name=HWAWELLTEX"
+      },
+      {
+        "company_name": "KTL",
+        "link": "displayCompany.php?name=KTL"
+      },
+      {
+        "company_name": "MAKSONSPIN",
+        "link": "displayCompany.php?name=MAKSONSPIN"
+      },
+      {
+        "company_name": "MALEKSPIN",
+        "link": "displayCompany.php?name=MALEKSPIN"
+      },
+      {
+        "company_name": "MATINSPINN",
+        "link": "displayCompany.php?name=MATINSPINN"
+      },
+      {
+        "company_name": "METROSPIN",
+        "link": "displayCompany.php?name=METROSPIN"
+      },
+      {
+        "company_name": "MHSML",
+        "link": "displayCompany.php?name=MHSML"
+      },
+      {
+        "company_name": "MITHUNKNIT",
+        "link": "displayCompany.php?name=MITHUNKNIT"
+      },
+      {
+        "company_name": "MLDYEING",
+        "link": "displayCompany.php?name=MLDYEING"
+      },
+      {
+        "company_name": "MONNOFABR",
+        "link": "displayCompany.php?name=MONNOFABR"
+      },
+      {
+        "company_name": "NEWLINE",
+        "link": "displayCompany.php?name=NEWLINE"
+      },
+      {
+        "company_name": "NURANI",
+        "link": "displayCompany.php?name=NURANI"
+      },
+      {
+        "company_name": "PDL",
+        "link": "displayCompany.php?name=PDL"
+      },
+      {
+        "company_name": "PRIMETEX",
+        "link": "displayCompany.php?name=PRIMETEX"
+      },
+      {
+        "company_name": "PTL",
+        "link": "displayCompany.php?name=PTL"
+      },
+      {
+        "company_name": "QUEENSOUTH",
+        "link": "displayCompany.php?name=QUEENSOUTH"
+      },
+      {
+        "company_name": "RAHIMTEXT",
+        "link": "displayCompany.php?name=RAHIMTEXT"
+      },
+      {
+        "company_name": "REGENTTEX",
+        "link": "displayCompany.php?name=REGENTTEX"
+      },
+      {
+        "company_name": "RINGSHINE",
+        "link": "displayCompany.php?name=RINGSHINE"
+      },
+      {
+        "company_name": "RNSPIN",
+        "link": "displayCompany.php?name=RNSPIN"
+      },
+      {
+        "company_name": "SAFKOSPINN",
+        "link": "displayCompany.php?name=SAFKOSPINN"
+      },
+      {
+        "company_name": "SAIHAMCOT",
+        "link": "displayCompany.php?name=SAIHAMCOT"
+      },
+      {
+        "company_name": "SAIHAMTEX",
+        "link": "displayCompany.php?name=SAIHAMTEX"
+      },
+      {
+        "company_name": "SHASHADNIM",
+        "link": "displayCompany.php?name=SHASHADNIM"
+      },
+      {
+        "company_name": "SHEPHERD",
+        "link": "displayCompany.php?name=SHEPHERD"
+      },
+      {
+        "company_name": "SIMTEX",
+        "link": "displayCompany.php?name=SIMTEX"
+      },
+      {
+        "company_name": "SONARGAON",
+        "link": "displayCompany.php?name=SONARGAON"
+      },
+      {
+        "company_name": "SQUARETEXT",
+        "link": "displayCompany.php?name=SQUARETEXT"
+      },
+      {
+        "company_name": "STYLECRAFT",
+        "link": "displayCompany.php?name=STYLECRAFT"
+      },
+      {
+        "company_name": "TALLUSPIN",
+        "link": "displayCompany.php?name=TALLUSPIN"
+      },
+      {
+        "company_name": "TAMIJTEX",
+        "link": "displayCompany.php?name=TAMIJTEX"
+      },
+      {
+        "company_name": "TOSRIFA",
+        "link": "displayCompany.php?name=TOSRIFA"
+      },
+      {
+        "company_name": "TUNGHAI",
+        "link": "displayCompany.php?name=TUNGHAI"
+      },
+      {
+        "company_name": "VFSTDL",
+        "link": "displayCompany.php?name=VFSTDL"
+      },
+      {
+        "company_name": "ZAHEENSPIN",
+        "link": "displayCompany.php?name=ZAHEENSPIN"
+      },
+      {
+        "company_name": "ZAHINTEX",
+        "link": "displayCompany.php?name=ZAHINTEX"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Travel & Leisure",
+      "link": "companylistbyindustry.php?industryno=29"
+    },
+    "companies": [
+      {
+        "company_name": "BDSERVICE",
+        "link": "displayCompany.php?name=BDSERVICE"
+      },
+      {
+        "company_name": "PENINSULA",
+        "link": "displayCompany.php?name=PENINSULA"
+      },
+      {
+        "company_name": "SEAPEARL",
+        "link": "displayCompany.php?name=SEAPEARL"
+      },
+      {
+        "company_name": "UNIQUEHRL",
+        "link": "displayCompany.php?name=UNIQUEHRL"
+      }
+    ]
+  },
+  {
+    "sector": {
+      "title": "Treasury Bond",
+      "link": "companylistbyindustry.php?industryno=88"
+    },
+    "companies": [
+      {
+        "company_name": "T05Y0715",
+        "link": "displayCompany.php?name=T05Y0715"
+      },
+      {
+        "company_name": "T05Y0815",
+        "link": "displayCompany.php?name=T05Y0815"
+      },
+      {
+        "company_name": "T10Y0117",
+        "link": "displayCompany.php?name=T10Y0117"
+      },
+      {
+        "company_name": "T10Y0118",
+        "link": "displayCompany.php?name=T10Y0118"
+      },
+      {
+        "company_name": "T10Y0119",
+        "link": "displayCompany.php?name=T10Y0119"
+      },
+      {
+        "company_name": "T10Y0121",
+        "link": "displayCompany.php?name=T10Y0121"
+      },
+      {
+        "company_name": "T10Y0214",
+        "link": "displayCompany.php?name=T10Y0214"
+      },
+      {
+        "company_name": "T10Y0215",
+        "link": "displayCompany.php?name=T10Y0215"
+      },
+      {
+        "company_name": "T10Y0216",
+        "link": "displayCompany.php?name=T10Y0216"
+      },
+      {
+        "company_name": "T10Y0217",
+        "link": "displayCompany.php?name=T10Y0217"
+      },
+      {
+        "company_name": "T10Y0218",
+        "link": "displayCompany.php?name=T10Y0218"
+      },
+      {
+        "company_name": "T10Y0219",
+        "link": "displayCompany.php?name=T10Y0219"
+      },
+      {
+        "company_name": "T10Y0220",
+        "link": "displayCompany.php?name=T10Y0220"
+      },
+      {
+        "company_name": "T10Y0221",
+        "link": "displayCompany.php?name=T10Y0221"
+      },
+      {
+        "company_name": "T10Y0317",
+        "link": "displayCompany.php?name=T10Y0317"
+      },
+      {
+        "company_name": "T10Y0318",
+        "link": "displayCompany.php?name=T10Y0318"
+      },
+      {
+        "company_name": "T10Y0319",
+        "link": "displayCompany.php?name=T10Y0319"
+      },
+      {
+        "company_name": "T10Y0320",
+        "link": "displayCompany.php?name=T10Y0320"
+      },
+      {
+        "company_name": "T10Y0321",
+        "link": "displayCompany.php?name=T10Y0321"
+      },
+      {
+        "company_name": "T10Y0414",
+        "link": "displayCompany.php?name=T10Y0414"
+      },
+      {
+        "company_name": "T10Y0415",
+        "link": "displayCompany.php?name=T10Y0415"
+      },
+      {
+        "company_name": "T10Y0416",
+        "link": "displayCompany.php?name=T10Y0416"
+      },
+      {
+        "company_name": "T10Y0418",
+        "link": "displayCompany.php?name=T10Y0418"
+      },
+      {
+        "company_name": "T10Y0419",
+        "link": "displayCompany.php?name=T10Y0419"
+      },
+      {
+        "company_name": "T10Y0420",
+        "link": "displayCompany.php?name=T10Y0420"
+      },
+      {
+        "company_name": "T10Y0421",
+        "link": "displayCompany.php?name=T10Y0421"
+      },
+      {
+        "company_name": "T10Y0517",
+        "link": "displayCompany.php?name=T10Y0517"
+      },
+      {
+        "company_name": "T10Y0518",
+        "link": "displayCompany.php?name=T10Y0518"
+      },
+      {
+        "company_name": "T10Y0519",
+        "link": "displayCompany.php?name=T10Y0519"
+      },
+      {
+        "company_name": "T10Y0520",
+        "link": "displayCompany.php?name=T10Y0520"
+      },
+      {
+        "company_name": "T10Y0521",
+        "link": "displayCompany.php?name=T10Y0521"
+      },
+      {
+        "company_name": "T10Y0614",
+        "link": "displayCompany.php?name=T10Y0614"
+      },
+      {
+        "company_name": "T10Y0615",
+        "link": "displayCompany.php?name=T10Y0615"
+      },
+      {
+        "company_name": "T10Y0616",
+        "link": "displayCompany.php?name=T10Y0616"
+      },
+      {
+        "company_name": "T10Y0617",
+        "link": "displayCompany.php?name=T10Y0617"
+      },
+      {
+        "company_name": "T10Y0618",
+        "link": "displayCompany.php?name=T10Y0618"
+      },
+      {
+        "company_name": "T10Y0619",
+        "link": "displayCompany.php?name=T10Y0619"
+      },
+      {
+        "company_name": "T10Y0620",
+        "link": "displayCompany.php?name=T10Y0620"
+      },
+      {
+        "company_name": "T10Y0621",
+        "link": "displayCompany.php?name=T10Y0621"
+      },
+      {
+        "company_name": "T10Y0717",
+        "link": "displayCompany.php?name=T10Y0717"
+      },
+      {
+        "company_name": "T10Y0718",
+        "link": "displayCompany.php?name=T10Y0718"
+      },
+      {
+        "company_name": "T10Y0719",
+        "link": "displayCompany.php?name=T10Y0719"
+      },
+      {
+        "company_name": "T10Y0720",
+        "link": "displayCompany.php?name=T10Y0720"
+      },
+      {
+        "company_name": "T10Y0721",
+        "link": "displayCompany.php?name=T10Y0721"
+      },
+      {
+        "company_name": "T10Y0814",
+        "link": "displayCompany.php?name=T10Y0814"
+      },
+      {
+        "company_name": "T10Y0816",
+        "link": "displayCompany.php?name=T10Y0816"
+      },
+      {
+        "company_name": "T10Y0817",
+        "link": "displayCompany.php?name=T10Y0817"
+      },
+      {
+        "company_name": "T10Y0818",
+        "link": "displayCompany.php?name=T10Y0818"
+      },
+      {
+        "company_name": "T10Y0819",
+        "link": "displayCompany.php?name=T10Y0819"
+      },
+      {
+        "company_name": "T10Y0820",
+        "link": "displayCompany.php?name=T10Y0820"
+      },
+      {
+        "company_name": "T10Y0821",
+        "link": "displayCompany.php?name=T10Y0821"
+      },
+      {
+        "company_name": "T10Y0916",
+        "link": "displayCompany.php?name=T10Y0916"
+      },
+      {
+        "company_name": "T10Y0917",
+        "link": "displayCompany.php?name=T10Y0917"
+      },
+      {
+        "company_name": "T10Y0918",
+        "link": "displayCompany.php?name=T10Y0918"
+      },
+      {
+        "company_name": "T10Y0919",
+        "link": "displayCompany.php?name=T10Y0919"
+      },
+      {
+        "company_name": "T10Y0920",
+        "link": "displayCompany.php?name=T10Y0920"
+      },
+      {
+        "company_name": "T10Y0921",
+        "link": "displayCompany.php?name=T10Y0921"
+      },
+      {
+        "company_name": "T10Y1014",
+        "link": "displayCompany.php?name=T10Y1014"
+      },
+      {
+        "company_name": "T10Y1016",
+        "link": "displayCompany.php?name=T10Y1016"
+      },
+      {
+        "company_name": "T10Y1017",
+        "link": "displayCompany.php?name=T10Y1017"
+      },
+      {
+        "company_name": "T10Y1018",
+        "link": "displayCompany.php?name=T10Y1018"
+      },
+      {
+        "company_name": "T10Y1019",
+        "link": "displayCompany.php?name=T10Y1019"
+      },
+      {
+        "company_name": "T10Y1116",
+        "link": "displayCompany.php?name=T10Y1116"
+      },
+      {
+        "company_name": "T10Y1117",
+        "link": "displayCompany.php?name=T10Y1117"
+      },
+      {
+        "company_name": "T10Y1118",
+        "link": "displayCompany.php?name=T10Y1118"
+      },
+      {
+        "company_name": "T10Y1120",
+        "link": "displayCompany.php?name=T10Y1120"
+      },
+      {
+        "company_name": "T10Y1213",
+        "link": "displayCompany.php?name=T10Y1213"
+      },
+      {
+        "company_name": "T10Y1214",
+        "link": "displayCompany.php?name=T10Y1214"
+      },
+      {
+        "company_name": "T10Y1215",
+        "link": "displayCompany.php?name=T10Y1215"
+      },
+      {
+        "company_name": "T10Y1216",
+        "link": "displayCompany.php?name=T10Y1216"
+      },
+      {
+        "company_name": "T10Y1217",
+        "link": "displayCompany.php?name=T10Y1217"
+      },
+      {
+        "company_name": "T10Y1218",
+        "link": "displayCompany.php?name=T10Y1218"
+      },
+      {
+        "company_name": "T10Y1219",
+        "link": "displayCompany.php?name=T10Y1219"
+      },
+      {
+        "company_name": "T10Y1220",
+        "link": "displayCompany.php?name=T10Y1220"
+      },
+      {
+        "company_name": "T15Y0123",
+        "link": "displayCompany.php?name=T15Y0123"
+      },
+      {
+        "company_name": "T15Y0124",
+        "link": "displayCompany.php?name=T15Y0124"
+      },
+      {
+        "company_name": "T15Y0125",
+        "link": "displayCompany.php?name=T15Y0125"
+      },
+      {
+        "company_name": "T15Y0223",
+        "link": "displayCompany.php?name=T15Y0223"
+      },
+      {
+        "company_name": "T15Y0224",
+        "link": "displayCompany.php?name=T15Y0224"
+      },
+      {
+        "company_name": "T15Y0225",
+        "link": "displayCompany.php?name=T15Y0225"
+      },
+      {
+        "company_name": "T15Y0226",
+        "link": "displayCompany.php?name=T15Y0226"
+      },
+      {
+        "company_name": "T15Y0323",
+        "link": "displayCompany.php?name=T15Y0323"
+      },
+      {
+        "company_name": "T15Y0324",
+        "link": "displayCompany.php?name=T15Y0324"
+      },
+      {
+        "company_name": "T15Y0325",
+        "link": "displayCompany.php?name=T15Y0325"
+      },
+      {
+        "company_name": "T15Y0326",
+        "link": "displayCompany.php?name=T15Y0326"
+      },
+      {
+        "company_name": "T15Y0423",
+        "link": "displayCompany.php?name=T15Y0423"
+      },
+      {
+        "company_name": "T15Y0424",
+        "link": "displayCompany.php?name=T15Y0424"
+      },
+      {
+        "company_name": "T15Y0425",
+        "link": "displayCompany.php?name=T15Y0425"
+      },
+      {
+        "company_name": "T15Y0426",
+        "link": "displayCompany.php?name=T15Y0426"
+      },
+      {
+        "company_name": "T15Y0523",
+        "link": "displayCompany.php?name=T15Y0523"
+      },
+      {
+        "company_name": "T15Y0524",
+        "link": "displayCompany.php?name=T15Y0524"
+      },
+      {
+        "company_name": "T15Y0525",
+        "link": "displayCompany.php?name=T15Y0525"
+      },
+      {
+        "company_name": "T15Y0526",
+        "link": "displayCompany.php?name=T15Y0526"
+      },
+      {
+        "company_name": "T15Y0623",
+        "link": "displayCompany.php?name=T15Y0623"
+      },
+      {
+        "company_name": "T15Y0624",
+        "link": "displayCompany.php?name=T15Y0624"
+      },
+      {
+        "company_name": "T15Y0625",
+        "link": "displayCompany.php?name=T15Y0625"
+      },
+      {
+        "company_name": "T15Y0626",
+        "link": "displayCompany.php?name=T15Y0626"
+      },
+      {
+        "company_name": "T15Y0722",
+        "link": "displayCompany.php?name=T15Y0722"
+      },
+      {
+        "company_name": "T15Y0723",
+        "link": "displayCompany.php?name=T15Y0723"
+      },
+      {
+        "company_name": "T15Y0724",
+        "link": "displayCompany.php?name=T15Y0724"
+      },
+      {
+        "company_name": "T15Y0725",
+        "link": "displayCompany.php?name=T15Y0725"
+      },
+      {
+        "company_name": "T15Y0822",
+        "link": "displayCompany.php?name=T15Y0822"
+      },
+      {
+        "company_name": "T15Y0823",
+        "link": "displayCompany.php?name=T15Y0823"
+      },
+      {
+        "company_name": "T15Y0824",
+        "link": "displayCompany.php?name=T15Y0824"
+      },
+      {
+        "company_name": "T15Y0825",
+        "link": "displayCompany.php?name=T15Y0825"
+      },
+      {
+        "company_name": "T15Y0826",
+        "link": "displayCompany.php?name=T15Y0826"
+      },
+      {
+        "company_name": "T15Y0922",
+        "link": "displayCompany.php?name=T15Y0922"
+      },
+      {
+        "company_name": "T15Y0923",
+        "link": "displayCompany.php?name=T15Y0923"
+      },
+      {
+        "company_name": "T15Y0924",
+        "link": "displayCompany.php?name=T15Y0924"
+      },
+      {
+        "company_name": "T15Y0925",
+        "link": "displayCompany.php?name=T15Y0925"
+      },
+      {
+        "company_name": "T15Y0926",
+        "link": "displayCompany.php?name=T15Y0926"
+      },
+      {
+        "company_name": "T15Y1022",
+        "link": "displayCompany.php?name=T15Y1022"
+      },
+      {
+        "company_name": "T15Y1023",
+        "link": "displayCompany.php?name=T15Y1023"
+      },
+      {
+        "company_name": "T15Y1024",
+        "link": "displayCompany.php?name=T15Y1024"
+      },
+      {
+        "company_name": "T15Y1025",
+        "link": "displayCompany.php?name=T15Y1025"
+      },
+      {
+        "company_name": "T15Y1122",
+        "link": "displayCompany.php?name=T15Y1122"
+      },
+      {
+        "company_name": "T15Y1123",
+        "link": "displayCompany.php?name=T15Y1123"
+      },
+      {
+        "company_name": "T15Y1125",
+        "link": "displayCompany.php?name=T15Y1125"
+      },
+      {
+        "company_name": "T15Y1222",
+        "link": "displayCompany.php?name=T15Y1222"
+      },
+      {
+        "company_name": "T15Y1223",
+        "link": "displayCompany.php?name=T15Y1223"
+      },
+      {
+        "company_name": "T15Y1224",
+        "link": "displayCompany.php?name=T15Y1224"
+      },
+      {
+        "company_name": "T15Y1225",
+        "link": "displayCompany.php?name=T15Y1225"
+      },
+      {
+        "company_name": "T20Y0128",
+        "link": "displayCompany.php?name=T20Y0128"
+      },
+      {
+        "company_name": "T20Y0129",
+        "link": "displayCompany.php?name=T20Y0129"
+      },
+      {
+        "company_name": "T20Y0131",
+        "link": "displayCompany.php?name=T20Y0131"
+      },
+      {
+        "company_name": "T20Y0228",
+        "link": "displayCompany.php?name=T20Y0228"
+      },
+      {
+        "company_name": "T20Y0229",
+        "link": "displayCompany.php?name=T20Y0229"
+      },
+      {
+        "company_name": "T20Y0230",
+        "link": "displayCompany.php?name=T20Y0230"
+      },
+      {
+        "company_name": "T20Y0231",
+        "link": "displayCompany.php?name=T20Y0231"
+      },
+      {
+        "company_name": "T20Y0328",
+        "link": "displayCompany.php?name=T20Y0328"
+      },
+      {
+        "company_name": "T20Y0329",
+        "link": "displayCompany.php?name=T20Y0329"
+      },
+      {
+        "company_name": "T20Y0330",
+        "link": "displayCompany.php?name=T20Y0330"
+      },
+      {
+        "company_name": "T20Y0428",
+        "link": "displayCompany.php?name=T20Y0428"
+      },
+      {
+        "company_name": "T20Y0429",
+        "link": "displayCompany.php?name=T20Y0429"
+      },
+      {
+        "company_name": "T20Y0430",
+        "link": "displayCompany.php?name=T20Y0430"
+      },
+      {
+        "company_name": "T20Y0431",
+        "link": "displayCompany.php?name=T20Y0431"
+      },
+      {
+        "company_name": "T20Y0528",
+        "link": "displayCompany.php?name=T20Y0528"
+      },
+      {
+        "company_name": "T20Y0530",
+        "link": "displayCompany.php?name=T20Y0530"
+      },
+      {
+        "company_name": "T20Y0531",
+        "link": "displayCompany.php?name=T20Y0531"
+      },
+      {
+        "company_name": "T20Y0628",
+        "link": "displayCompany.php?name=T20Y0628"
+      },
+      {
+        "company_name": "T20Y0629",
+        "link": "displayCompany.php?name=T20Y0629"
+      },
+      {
+        "company_name": "T20Y0630",
+        "link": "displayCompany.php?name=T20Y0630"
+      },
+      {
+        "company_name": "T20Y0631",
+        "link": "displayCompany.php?name=T20Y0631"
+      },
+      {
+        "company_name": "T20Y0727",
+        "link": "displayCompany.php?name=T20Y0727"
+      },
+      {
+        "company_name": "T20Y0728",
+        "link": "displayCompany.php?name=T20Y0728"
+      },
+      {
+        "company_name": "T20Y0729",
+        "link": "displayCompany.php?name=T20Y0729"
+      },
+      {
+        "company_name": "T20Y0730",
+        "link": "displayCompany.php?name=T20Y0730"
+      },
+      {
+        "company_name": "T20Y0731",
+        "link": "displayCompany.php?name=T20Y0731"
+      },
+      {
+        "company_name": "T20Y0827",
+        "link": "displayCompany.php?name=T20Y0827"
+      },
+      {
+        "company_name": "T20Y0828",
+        "link": "displayCompany.php?name=T20Y0828"
+      },
+      {
+        "company_name": "T20Y0829",
+        "link": "displayCompany.php?name=T20Y0829"
+      },
+      {
+        "company_name": "T20Y0830",
+        "link": "displayCompany.php?name=T20Y0830"
+      },
+      {
+        "company_name": "T20Y0831",
+        "link": "displayCompany.php?name=T20Y0831"
+      },
+      {
+        "company_name": "T20Y0927",
+        "link": "displayCompany.php?name=T20Y0927"
+      },
+      {
+        "company_name": "T20Y0928",
+        "link": "displayCompany.php?name=T20Y0928"
+      },
+      {
+        "company_name": "T20Y0930",
+        "link": "displayCompany.php?name=T20Y0930"
+      },
+      {
+        "company_name": "T20Y0931",
+        "link": "displayCompany.php?name=T20Y0931"
+      },
+      {
+        "company_name": "T20Y1027",
+        "link": "displayCompany.php?name=T20Y1027"
+      },
+      {
+        "company_name": "T20Y1028",
+        "link": "displayCompany.php?name=T20Y1028"
+      },
+      {
+        "company_name": "T20Y1029",
+        "link": "displayCompany.php?name=T20Y1029"
+      },
+      {
+        "company_name": "T20Y1030",
+        "link": "displayCompany.php?name=T20Y1030"
+      },
+      {
+        "company_name": "T20Y1127",
+        "link": "displayCompany.php?name=T20Y1127"
+      },
+      {
+        "company_name": "T20Y1128",
+        "link": "displayCompany.php?name=T20Y1128"
+      },
+      {
+        "company_name": "T20Y1130",
+        "link": "displayCompany.php?name=T20Y1130"
+      },
+      {
+        "company_name": "T20Y1227",
+        "link": "displayCompany.php?name=T20Y1227"
+      },
+      {
+        "company_name": "T20Y1228",
+        "link": "displayCompany.php?name=T20Y1228"
+      },
+      {
+        "company_name": "T20Y1229",
+        "link": "displayCompany.php?name=T20Y1229"
+      },
+      {
+        "company_name": "T20Y1230",
+        "link": "displayCompany.php?name=T20Y1230"
+      },
+      {
+        "company_name": "T5Y0112",
+        "link": "displayCompany.php?name=T5Y0112"
+      },
+      {
+        "company_name": "T5Y0113",
+        "link": "displayCompany.php?name=T5Y0113"
+      },
+      {
+        "company_name": "T5Y0114",
+        "link": "displayCompany.php?name=T5Y0114"
+      },
+      {
+        "company_name": "T5Y0115",
+        "link": "displayCompany.php?name=T5Y0115"
+      },
+      {
+        "company_name": "T5Y0116",
+        "link": "displayCompany.php?name=T5Y0116"
+      },
+      {
+        "company_name": "T5Y0212",
+        "link": "displayCompany.php?name=T5Y0212"
+      },
+      {
+        "company_name": "T5Y0213",
+        "link": "displayCompany.php?name=T5Y0213"
+      },
+      {
+        "company_name": "T5Y0214",
+        "link": "displayCompany.php?name=T5Y0214"
+      },
+      {
+        "company_name": "T5Y0215",
+        "link": "displayCompany.php?name=T5Y0215"
+      },
+      {
+        "company_name": "T5Y0216",
+        "link": "displayCompany.php?name=T5Y0216"
+      },
+      {
+        "company_name": "T5Y0313",
+        "link": "displayCompany.php?name=T5Y0313"
+      },
+      {
+        "company_name": "T5Y0314",
+        "link": "displayCompany.php?name=T5Y0314"
+      },
+      {
+        "company_name": "T5Y0315",
+        "link": "displayCompany.php?name=T5Y0315"
+      },
+      {
+        "company_name": "T5Y0316",
+        "link": "displayCompany.php?name=T5Y0316"
+      },
+      {
+        "company_name": "T5Y0412",
+        "link": "displayCompany.php?name=T5Y0412"
+      },
+      {
+        "company_name": "T5Y0414",
+        "link": "displayCompany.php?name=T5Y0414"
+      },
+      {
+        "company_name": "T5Y0415",
+        "link": "displayCompany.php?name=T5Y0415"
+      },
+      {
+        "company_name": "T5Y0416",
+        "link": "displayCompany.php?name=T5Y0416"
+      },
+      {
+        "company_name": "T5Y0514",
+        "link": "displayCompany.php?name=T5Y0514"
+      },
+      {
+        "company_name": "T5Y0516",
+        "link": "displayCompany.php?name=T5Y0516"
+      },
+      {
+        "company_name": "T5Y0613",
+        "link": "displayCompany.php?name=T5Y0613"
+      },
+      {
+        "company_name": "T5Y0615",
+        "link": "displayCompany.php?name=T5Y0615"
+      },
+      {
+        "company_name": "T5Y0616",
+        "link": "displayCompany.php?name=T5Y0616"
+      },
+      {
+        "company_name": "T5Y0712",
+        "link": "displayCompany.php?name=T5Y0712"
+      },
+      {
+        "company_name": "T5Y0713",
+        "link": "displayCompany.php?name=T5Y0713"
+      },
+      {
+        "company_name": "T5Y0714",
+        "link": "displayCompany.php?name=T5Y0714"
+      },
+      {
+        "company_name": "T5Y0716",
+        "link": "displayCompany.php?name=T5Y0716"
+      },
+      {
+        "company_name": "T5Y0811",
+        "link": "displayCompany.php?name=T5Y0811"
+      },
+      {
+        "company_name": "T5Y0812",
+        "link": "displayCompany.php?name=T5Y0812"
+      },
+      {
+        "company_name": "T5Y0813",
+        "link": "displayCompany.php?name=T5Y0813"
+      },
+      {
+        "company_name": "T5Y0814",
+        "link": "displayCompany.php?name=T5Y0814"
+      },
+      {
+        "company_name": "T5Y0816",
+        "link": "displayCompany.php?name=T5Y0816"
+      },
+      {
+        "company_name": "T5Y0911",
+        "link": "displayCompany.php?name=T5Y0911"
+      },
+      {
+        "company_name": "T5Y0912",
+        "link": "displayCompany.php?name=T5Y0912"
+      },
+      {
+        "company_name": "T5Y0913",
+        "link": "displayCompany.php?name=T5Y0913"
+      },
+      {
+        "company_name": "T5Y0914",
+        "link": "displayCompany.php?name=T5Y0914"
+      },
+      {
+        "company_name": "T5Y0915",
+        "link": "displayCompany.php?name=T5Y0915"
+      },
+      {
+        "company_name": "T5Y0916",
+        "link": "displayCompany.php?name=T5Y0916"
+      },
+      {
+        "company_name": "T5Y1011",
+        "link": "displayCompany.php?name=T5Y1011"
+      },
+      {
+        "company_name": "T5Y1012",
+        "link": "displayCompany.php?name=T5Y1012"
+      },
+      {
+        "company_name": "T5Y1013",
+        "link": "displayCompany.php?name=T5Y1013"
+      },
+      {
+        "company_name": "T5Y1014",
+        "link": "displayCompany.php?name=T5Y1014"
+      },
+      {
+        "company_name": "T5Y1015",
+        "link": "displayCompany.php?name=T5Y1015"
+      },
+      {
+        "company_name": "T5Y1111",
+        "link": "displayCompany.php?name=T5Y1111"
+      },
+      {
+        "company_name": "T5Y1112",
+        "link": "displayCompany.php?name=T5Y1112"
+      },
+      {
+        "company_name": "T5Y1113",
+        "link": "displayCompany.php?name=T5Y1113"
+      },
+      {
+        "company_name": "T5Y1114",
+        "link": "displayCompany.php?name=T5Y1114"
+      },
+      {
+        "company_name": "T5Y1115",
+        "link": "displayCompany.php?name=T5Y1115"
+      },
+      {
+        "company_name": "T5Y1211",
+        "link": "displayCompany.php?name=T5Y1211"
+      },
+      {
+        "company_name": "T5Y1212",
+        "link": "displayCompany.php?name=T5Y1212"
+      },
+      {
+        "company_name": "T5Y1213",
+        "link": "displayCompany.php?name=T5Y1213"
+      },
+      {
+        "company_name": "T5Y1214",
+        "link": "displayCompany.php?name=T5Y1214"
+      },
+      {
+        "company_name": "T5Y1215",
+        "link": "displayCompany.php?name=T5Y1215"
+      }
+    ]
+  }
+]

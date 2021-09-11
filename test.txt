@@ -1,0 +1,657 @@
+[
+  {
+    "company": "GPHISPAT",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "12.00"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "5.00, 5%B",
+        "dividend_yield_in_percent": "1.13"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "5.00, 5%B",
+        "dividend_yield_in_percent": "1.45"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "5.00, 5% B",
+        "dividend_yield_in_percent": "2.06"
+      }
+    ]
+  },
+  {
+    "company": "AFTABAUTO",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "15.00"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "16.00",
+        "dividend_yield_in_percent": "2.41"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "12.00",
+        "dividend_yield_in_percent": "2.28"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "2.72"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "4.24"
+      }
+    ]
+  },
+  {
+    "company": "KDSALTD",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "5.00, 10%B"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10.00, 5%B",
+        "dividend_yield_in_percent": "1.31"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10.00, 5%B",
+        "dividend_yield_in_percent": "1.61"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "10.00, 5%B",
+        "dividend_yield_in_percent": "1.73"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "7.50, 7.50% B",
+        "dividend_yield_in_percent": "1.94"
+      }
+    ]
+  },
+  {
+    "company": "COPPERTECH",
+    "dividends": [
+      {
+        "year": "2017",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "7.00, 5%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "2.50",
+        "dividend_yield_in_percent": "1.21"
+      }
+    ]
+  },
+  {
+    "company": "ANWARGALV ",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "1.56"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "1.24"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "1.29"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "10.00, 5% B",
+        "dividend_yield_in_percent": "1.48"
+      }
+    ]
+  },
+  {
+    "company": "GOLDENSON",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "5.00"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "2.50",
+        "dividend_yield_in_percent": "4.55"
+      }
+    ]
+  },
+  {
+    "company": "ECABLES",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "0.74"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "0.71"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "5.00",
+        "dividend_yield_in_percent": "0.16"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "ATLASBANG",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "10.00, 5%B",
+        "dividend_yield_in_percent": "0.93"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "2.00, 10%B",
+        "dividend_yield_in_percent": "0.16"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "5.00",
+        "dividend_yield_in_percent": "0.39"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "5.00",
+        "dividend_yield_in_percent": "0.46"
+      }
+    ]
+  },
+  {
+    "company": "DOMINAGE",
+    "dividends": [
+      {
+        "year": "2019",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "2.00, 8% B",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "IFADAUTOS",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "13.00, 4%B",
+        "dividend_yield_in_percent": "1.55"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "21.00, 5%B",
+        "dividend_yield_in_percent": "1.56"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "22.00, 10%B",
+        "dividend_yield_in_percent": "1.99"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "1.23"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "9.00, 2% B",
+        "dividend_yield_in_percent": "2.34"
+      }
+    ]
+  },
+  {
+    "company": "BDLAMPS",
+    "dividends": [
+      {
+        "year": "2016-17*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "Jan,16-Jun,17",
+        "dividend_in_percent": "30.00",
+        "dividend_yield_in_percent": "1.73"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "20.00",
+        "dividend_yield_in_percent": "0.81"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "20.00",
+        "dividend_yield_in_percent": "0.96"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "0.89"
+      }
+    ]
+  },
+  {
+    "company": "DESHBANDHU",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "5.00",
+        "dividend_yield_in_percent": "3.27"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "5.00",
+        "dividend_yield_in_percent": "3.65"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "5.00",
+        "dividend_yield_in_percent": "4.81"
+      }
+    ]
+  },
+  {
+    "company": "MIRAKHTER",
+    "dividends": [
+      {
+        "year": "2019",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "BBSCABLES",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "5.00, 15%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10.00, 15%B",
+        "dividend_yield_in_percent": "1.39"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "10.00, 10%B",
+        "dividend_yield_in_percent": "1.00"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "10.00, 10% B",
+        "dividend_yield_in_percent": "1.83"
+      }
+    ]
+  },
+  {
+    "company": "APOLOISPAT",
+    "dividends": [
+      {
+        "year": "2014",
+        "dividend_in_percent": "15%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2015",
+        "dividend_in_percent": "3.00, 12%B",
+        "dividend_yield_in_percent": "1.52"
+      },
+      {
+        "year": "2016",
+        "dividend_in_percent": "5.00, 10%B",
+        "dividend_yield_in_percent": "3.07"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "3%B",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "BENGALWTL",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "2.00"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "5.00",
+        "dividend_yield_in_percent": "1.64"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "5.00",
+        "dividend_yield_in_percent": "1.82"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "BDAUTOCA",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "3%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "3%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "3.00, 12%B",
+        "dividend_yield_in_percent": "0.08"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "0.41"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "3.00",
+        "dividend_yield_in_percent": "0.20"
+      }
+    ]
+  },
+  {
+    "company": "BDTHAI",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "5.00, 10%B"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "5%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "7.5%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "3.00, 3% B",
+        "dividend_yield_in_percent": "3"
+      }
+    ]
+  },
+  {
+    "company": "BSRMLTD",
+    "dividends": [
+      {
+        "year": "2016-17*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "Jan,16-Jun,17",
+        "dividend_in_percent": "10.00, 10%B",
+        "dividend_yield_in_percent": "0.74"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10.00, 10%B",
+        "dividend_yield_in_percent": "1.02"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "25.00",
+        "dividend_yield_in_percent": "3.53"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "15.00",
+        "dividend_yield_in_percent": "2.80"
+      }
+    ]
+  },
+  {
+    "company": "AZIZPIPES",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "5%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "5%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "7.00",
+        "dividend_yield_in_percent": "0.43"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "1.00",
+        "dividend_yield_in_percent": "0.10"
+      }
+    ]
+  },
+  {
+    "company": "BSRMSTEEL",
+    "dividends": [
+      {
+        "year": "2016-17*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "Jan,16-Jun,17",
+        "dividend_in_percent": "35.00",
+        "dividend_yield_in_percent": "3.85"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10.00, 10%B",
+        "dividend_yield_in_percent": "1.39"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "25.00",
+        "dividend_yield_in_percent": "4.29"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "15.00",
+        "dividend_yield_in_percent": "4.46"
+      }
+    ]
+  },
+  {
+    "company": "KAY&QUE",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "5.00",
+        "dividend_yield_in_percent": "0.24"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "7.50",
+        "dividend_yield_in_percent": "0.35"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "4.00",
+        "dividend_yield_in_percent": "0.19"
+      }
+    ]
+  },
+  {
+    "company": "BBS",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "5.00, 10%B",
+        "dividend_yield_in_percent": "1.22"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "5.00, 10%B",
+        "dividend_yield_in_percent": "1.02"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "5.00, 5% B",
+        "dividend_yield_in_percent": "3.09"
+      }
+    ]
+  }
+]
