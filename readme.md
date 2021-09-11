@@ -2,6 +2,7 @@
 1. Clone the git
 2. cd ./DSE-Tools
 3. npm i (or "npm install")
+4. run index.html file by direct live server type (ex: localhost:5000) 
 
 if you get any error like below: 
 
@@ -13,5 +14,5 @@ error:
 
 Solution is:
     
-cd ./node_modules/puppeteer
-npm run install
+1. cd ./node_modules/puppeteer
+2. npm run install
