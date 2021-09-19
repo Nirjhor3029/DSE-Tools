@@ -1,0 +1,1712 @@
+[
+  {
+    "company": "MONNOFABR",
+    "dividends": [
+      {
+        "year": "2009",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "SAIHAMCOT",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "10.00"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "12.00",
+        "dividend_yield_in_percent": "6.82"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "6.58"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "3.97"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "MHSML",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "5.00",
+        "dividend_yield_in_percent": "2.72"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "5%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "5%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "2%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "1.00",
+        "dividend_yield_in_percent": "1.28"
+      }
+    ]
+  },
+  {
+    "company": "ANLIMAYARN",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "3.53"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "3.14"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "3.01"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "5.00",
+        "dividend_yield_in_percent": "1.23"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "2.00",
+        "dividend_yield_in_percent": "0.67"
+      }
+    ]
+  },
+  {
+    "company": "ESQUIRENIT",
+    "dividends": [
+      {
+        "year": "2017",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "15.00",
+        "dividend_yield_in_percent": "3.36"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "15.00",
+        "dividend_yield_in_percent": "6.85"
+      }
+    ]
+  },
+  {
+    "company": "PDL",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "12.5%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "14%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "14%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "10.00 B",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "ENVOYTEX",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "12.00, 3%B"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "7.00, 5%B",
+        "dividend_yield_in_percent": "1.77"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10.00, 2%B",
+        "dividend_yield_in_percent": "2.88"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "15.00",
+        "dividend_yield_in_percent": "4.27"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "5.00",
+        "dividend_yield_in_percent": "2.36"
+      }
+    ]
+  },
+  {
+    "company": "FEKDIL",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "5.00, 10%B",
+        "dividend_yield_in_percent": "1.95"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "15%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "5.00, 5%B",
+        "dividend_yield_in_percent": "3.03"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "3.00, 2%B",
+        "dividend_yield_in_percent": "3.41"
+      }
+    ]
+  },
+  {
+    "company": "RNSPIN",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "20%B"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "20%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "SAFKOSPINN",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "3%B"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "4%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "3%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "KTL",
+    "dividends": [
+      {
+        "year": "2017",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "2.00, 10%B",
+        "dividend_yield_in_percent": "0.89"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "2.00, 8% B",
+        "dividend_yield_in_percent": "2.15"
+      }
+    ]
+  },
+  {
+    "company": "ALIF",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "Jan'15-Jun'16",
+        "dividend_in_percent": "13%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "11.00",
+        "dividend_yield_in_percent": "4.10"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "2.00, 8%B",
+        "dividend_yield_in_percent": "1.92"
+      }
+    ]
+  },
+  {
+    "company": "FAMILYTEX",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "5%B"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "5%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "5%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "NURANI",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "2.00, 11%B",
+        "dividend_yield_in_percent": "1.42"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "10.00 B",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "MITHUNKNIT",
+    "dividends": [
+      {
+        "year": "2014",
+        "dividend_in_percent": "20%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2015",
+        "dividend_in_percent": "17%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2016",
+        "dividend_in_percent": "20%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "ALLTEX",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "SIMTEX",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "20.00, 2%B",
+        "dividend_yield_in_percent": "8.97"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "2.00, 10%B",
+        "dividend_yield_in_percent": "0.71"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "5.00, 15%B",
+        "dividend_yield_in_percent": "1.91"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "9.00, 5%B",
+        "dividend_yield_in_percent": "3.40"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "5.00",
+        "dividend_yield_in_percent": "3.42"
+      }
+    ]
+  },
+  {
+    "company": "DELTASPINN",
+    "dividends": [
+      {
+        "year": "2013",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "3.03"
+      },
+      {
+        "year": "2014",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "5.21"
+      },
+      {
+        "year": "2015",
+        "dividend_in_percent": "5.00",
+        "dividend_yield_in_percent": "4.20"
+      },
+      {
+        "year": "2016",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "MAKSONSPIN",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "5%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "5.00",
+        "dividend_yield_in_percent": "5.81"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "2.00",
+        "dividend_yield_in_percent": "3.08"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "2.00",
+        "dividend_yield_in_percent": "3.92"
+      }
+    ]
+  },
+  {
+    "company": "MLDYEING",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "20%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "5.00, 15%B",
+        "dividend_yield_in_percent": "1.49"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "5.00, 5% B",
+        "dividend_yield_in_percent": "1.00"
+      }
+    ]
+  },
+  {
+    "company": "REGENTTEX",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "10.00, 5%B"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "3.19"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "5%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "5%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "1.00, 1% B",
+        "dividend_yield_in_percent": "1.28"
+      }
+    ]
+  },
+  {
+    "company": "PRIMETEX",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "5.81"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "3.64"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "2.84"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "5.00",
+        "dividend_yield_in_percent": "1.45"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "1.00",
+        "dividend_yield_in_percent": "0.63"
+      }
+    ]
+  },
+  {
+    "company": "TUNGHAI",
+    "dividends": [
+      {
+        "year": "2013",
+        "dividend_in_percent": "10% B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2014",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "Jan'16-Jun'16",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "Jan'15-Jun'16",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "RINGSHINE",
+    "dividends": [
+      {
+        "year": "2018",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "15%B",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "DSHGARME",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "30%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "5.00, 15%B",
+        "dividend_yield_in_percent": "0.14"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "3%B",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "DULAMIACOT",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "ACFL",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "2.83"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "5.38"
+      }
+    ]
+  },
+  {
+    "company": "GENNEXT",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "10%B"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "VFSTDL",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "6.00, 10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "6.00, 10%B",
+        "dividend_yield_in_percent": "1.15"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "3.00, 3%B",
+        "dividend_yield_in_percent": "1.33"
+      }
+    ]
+  },
+  {
+    "company": "TOSRIFA",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "12.00"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "3.28"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "5.00, 5%B",
+        "dividend_yield_in_percent": "2.81"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "1.00",
+        "dividend_yield_in_percent": "0.49"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "AL-HAJTEX",
+    "dividends": [
+      {
+        "year": "2015",
+        "dividend_in_percent": "5.00, 10%B",
+        "dividend_yield_in_percent": "0.53"
+      },
+      {
+        "year": "2016",
+        "dividend_in_percent": "5.00, 10%B",
+        "dividend_yield_in_percent": "0.59"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "5.00, 10%B",
+        "dividend_yield_in_percent": "0.44"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "TALLUSPIN",
+    "dividends": [
+      {
+        "year": "2015",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2016",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "ARGONDENIM",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "10.00, 15%B"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "12.50, 5%B",
+        "dividend_yield_in_percent": "3.42"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "15.00",
+        "dividend_yield_in_percent": "5.75"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "10.00, 5%B",
+        "dividend_yield_in_percent": "3.97"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "5.00, 5% B",
+        "dividend_yield_in_percent": "2.60"
+      }
+    ]
+  },
+  {
+    "company": "AIL",
+    "dividends": [
+      {
+        "year": "2015",
+        "dividend_in_percent": "12%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2016",
+        "dividend_in_percent": "31%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10.00, 25%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "25.00, 10%B",
+        "dividend_yield_in_percent": "2.45"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "3.00, 7%B",
+        "dividend_yield_in_percent": "0.49"
+      }
+    ]
+  },
+  {
+    "company": "DACCADYE",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "1.00",
+        "dividend_yield_in_percent": "2.38"
+      }
+    ]
+  },
+  {
+    "company": "ZAHEENSPIN",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "15%B"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "15%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "5%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "SONARGAON",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "3.00",
+        "dividend_yield_in_percent": "0.94"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "CNATEX",
+    "dividends": [
+      {
+        "year": "2012",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2013",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2014",
+        "dividend_in_percent": "11% B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2015",
+        "dividend_in_percent": "12%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2016",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "TAMIJTEX",
+    "dividends": [
+      {
+        "year": "2006",
+        "dividend_in_percent": "5.00",
+        "dividend_yield_in_percent": "13.00"
+      },
+      {
+        "year": "2007",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2008",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "27%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "8.55"
+      }
+    ]
+  },
+  {
+    "company": "HRTEX",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "10.00"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "2.82"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "2.30"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "1.97"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "3.11"
+      }
+    ]
+  },
+  {
+    "company": "METROSPIN",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "2.00",
+        "dividend_yield_in_percent": "2.30"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "2%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "2.00",
+        "dividend_yield_in_percent": "2.56"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "2.00",
+        "dividend_yield_in_percent": "2.35"
+      }
+    ]
+  },
+  {
+    "company": "NEWLINE",
+    "dividends": [
+      {
+        "year": "2017",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "3.00, 7%B",
+        "dividend_yield_in_percent": "1.25"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "5.00, 5% B",
+        "dividend_yield_in_percent": "3.88"
+      }
+    ]
+  },
+  {
+    "company": "RAHIMTEXT",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "40%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "15.00, 15%B",
+        "dividend_yield_in_percent": "0.42"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "20.00, 10%B",
+        "dividend_yield_in_percent": "0.55"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "20.00, 10%B",
+        "dividend_yield_in_percent": "0.50"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "11.00",
+        "dividend_yield_in_percent": "0.48"
+      }
+    ]
+  },
+  {
+    "company": "MATINSPINN",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "23.00",
+        "dividend_yield_in_percent": "5.85"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "15.00",
+        "dividend_yield_in_percent": "3.64"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "17.00",
+        "dividend_yield_in_percent": "4.46"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "15.00",
+        "dividend_yield_in_percent": "3.95"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "18.00",
+        "dividend_yield_in_percent": "5.49"
+      }
+    ]
+  },
+  {
+    "company": "ETL",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "10.00, 20%B"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "2.00, 10%B",
+        "dividend_yield_in_percent": "1.47"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "5% B",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "QUEENSOUTH",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "7.00, 10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "8.00, 10%B",
+        "dividend_yield_in_percent": "2.23"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "8.00, 8% B",
+        "dividend_yield_in_percent": "3.33"
+      }
+    ]
+  },
+  {
+    "company": "ZAHINTEX",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "7.00, 8%B",
+        "dividend_yield_in_percent": "3.50"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "3.00",
+        "dividend_yield_in_percent": "2.26"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "STYLECRAFT",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "75.00"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10.00, 80%B",
+        "dividend_yield_in_percent": "0.08"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "410%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "150%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "10.00 B",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "DSSL",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "15%B"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "15%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "5.00, 20%B",
+        "dividend_yield_in_percent": "2.54"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "15% B",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "SHASHADNIM",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "25.00"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "25.00, 6%B",
+        "dividend_yield_in_percent": "3.67"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "15.00, 7%B",
+        "dividend_yield_in_percent": "2.63"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "5.00, 5%B",
+        "dividend_yield_in_percent": "0.88"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "5.00, 5% B",
+        "dividend_yield_in_percent": "2.31"
+      }
+    ]
+  },
+  {
+    "company": "MALEKSPIN",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "5.92"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "4.37"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "5.85"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "10%C",
+        "dividend_yield_in_percent": "6.02"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "SHEPHERD",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "12.00",
+        "dividend_yield_in_percent": "3.02"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "10%B",
+        "dividend_yield_in_percent": "-"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "1.00",
+        "dividend_yield_in_percent": "0.66"
+      }
+    ]
+  },
+  {
+    "company": "HFL",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "15.00",
+        "dividend_yield_in_percent": "8.47"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "15.00",
+        "dividend_yield_in_percent": "5.93"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "3.65"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "4.63"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "6.37"
+      }
+    ]
+  },
+  {
+    "company": "SQUARETEXT",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "25.00, 10%B"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "20.00, 5%B",
+        "dividend_yield_in_percent": "2.95"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "20.00, 5%B",
+        "dividend_yield_in_percent": "3.94"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "20.00",
+        "dividend_yield_in_percent": "4.38"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "10.00",
+        "dividend_yield_in_percent": "3.45"
+      }
+    ]
+  },
+  {
+    "company": "HWAWELLTEX",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "15.00",
+        "dividend_yield_in_percent": "4.84"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "15.00",
+        "dividend_yield_in_percent": "3.98"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "17.00",
+        "dividend_yield_in_percent": "4.27"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "17.00",
+        "dividend_yield_in_percent": "4.42"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "20.00",
+        "dividend_yield_in_percent": "6.41"
+      }
+    ]
+  },
+  {
+    "company": "SAIHAMTEX",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "5.00, 5%B",
+        "dividend_yield_in_percent": "3.55"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "12.00",
+        "dividend_yield_in_percent": "6.82"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "15.00",
+        "dividend_yield_in_percent": "7.89"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "15.00",
+        "dividend_yield_in_percent": "2.13"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "-"
+      }
+    ]
+  },
+  {
+    "company": "APEXSPINN",
+    "dividends": [
+      {
+        "year": "2015-16*",
+        "dividend_in_percent": "-",
+        "dividend_yield_in_percent": "22.00"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "20.00",
+        "dividend_yield_in_percent": "1.78"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "20.00",
+        "dividend_yield_in_percent": "1.14"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "20.00",
+        "dividend_yield_in_percent": "1.44"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "15.00",
+        "dividend_yield_in_percent": "1.15"
+      }
+    ]
+  },
+  {
+    "company": "PTL",
+    "dividends": [
+      {
+        "year": "2016",
+        "dividend_in_percent": "10.00, 7%B",
+        "dividend_yield_in_percent": "5.52"
+      },
+      {
+        "year": "2017",
+        "dividend_in_percent": "5.00, 10%B",
+        "dividend_yield_in_percent": "2.67"
+      },
+      {
+        "year": "2018",
+        "dividend_in_percent": "7.00, 5%B",
+        "dividend_yield_in_percent": "1.32"
+      },
+      {
+        "year": "2019",
+        "dividend_in_percent": "7.00, 9%B",
+        "dividend_yield_in_percent": "1.18"
+      },
+      {
+        "year": "2020",
+        "dividend_in_percent": "15.00, 5.00 B",
+        "dividend_yield_in_percent": "3.07"
+      }
+    ]
+  }
+]

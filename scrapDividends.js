@@ -4,28 +4,36 @@ scrapDividends(20);
 
 function scrapDividends(sectorIndex) {
     let companies = [];
-    getData("companies.txt", (jsonData) => {
+    getData("datas/companies.txt", (jsonData) => {
+        console.log(`__________-------------Sector Selected for scraping "${jsonData[sectorIndex - 1].sector.title}"`);
         jsonData[sectorIndex - 1].companies.forEach(company => {
             companies.push(company.company_name);
         });
         // console.log(jsonData[0].companies[0].company_name);
-        console.log(companies);
+        // console.log(companies);
+        setTimeout(() => {
+            console.log(companies);
+        }, 1000);
+
         let companyInfo = [];
         companies.forEach((companyName, index) => {
             let urlWithCompanyName = URL + companyName;
-            console.log(`${urlWithCompanyName} index: ${index} `);
+            // console.log(`${urlWithCompanyName} index: ${index} `);
+            console.log(`Scrapping Dividends from "${companyName}" Start .........`);
+
             scrapProduct(urlWithCompanyName, companyName).then((companyDetails) => {
                 console.log(JSON.stringify(companyDetails, null, 2));
                 companyInfo.push(companyDetails);
                 // Save Data into Text File as JSON
-                saveDataTxt(companyInfo, "companyDividends.txt");
+                saveDataTxt(companyInfo, "datas/companyDividends.txt");
                 console.log("done");
             });
+
+
         });
+
+
     });
-
-
-
 }
 
 
@@ -50,10 +58,14 @@ async function scrapProduct(url, companyName) {
         return dividends;
     });
     browser.close();
+    console.log(`\n==================================================== "${companyName}" Completed :)`);
     return {
         "company": companyName,
         "dividends": dividendsResult
     };
+
+
+
 }
 
 

@@ -3,6 +3,7 @@ const URL = "https://www.dsebd.org/displayCompany.php?name=";
 const IndustryListUrl = "https://www.dsebd.org/by_industrylisting.php";
 const hostUrl = "https://www.dsebd.org/";
 
+// Dividends
 async function scrapProduct(url, companyName) {
     const browser = await puppeteer.launch();
     const page = await browser.newPage();
@@ -74,6 +75,7 @@ async function scrapIndustry(url) {
     saveDataTxt(IndustriesData, "industriesByCat.txt");
 }
 
+// scrapSectors & scrapCompanies both are used for scraping companies
 var allCompanies = [];
 async function scrapCompanies(cat) {
     let url = hostUrl + cat.link;
@@ -107,7 +109,6 @@ async function scrapCompanies(cat) {
     // Save Data into :- industriesByCat.txt file
     saveDataTxt(allCompanies, "companies.txt");
 }
-
 async function scrapSectors(url) {
     console.log("company");
     let industriesByCat;
